@@ -21,7 +21,7 @@ count_read.close()
 def update_status():
     if count <= len(data):
         item = data[count]
-        text = item["tekst"][:118]
+        text = item["tekst"][:115]
         base_long_url = 'https://programma.gl/'
         slug = item["slug"]
         long_url = base_long_url + slug
