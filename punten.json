@@ -1,92 +1,874 @@
 [
     {
-        "id" : "98a1e854-eda2-4159-ad1a-158c6cafeecb",
-        "tekst_kort" : "We voeren een Klimaatwet in",
-        "tekst_vol" : "We voeren een Klimaatwet in die ervoor zorgt dat de uitstoot van broeikasgassen ten opzichte van 1990 omlaaggaat met ten minste 25 procent in 2020, 55 procent in 2030 en 95 procent in 2050. Uiterlijk in 2050 hebben we alleen nog schone energie. Nederland streeft naar twee tot drie procent energiebesparing per jaar. De Klimaatwet garandeert dat Nederland met de maatregelen die genomen worden deze doelstellingen haalt.",
-        "slug" : "klimaatwet",
-        "url" : "https://groenlinksprogramma.nl/klimaatwet/",
-        "hoofdstuk" : 1,
-        "paragraaf" : 1,
-        "nummer" : 1
+      "tekst" : "We voeren een Klimaatwet in die ervoor zorgt dat de uitstoot van broeikasgassen ten opzichte van 1990 omlaaggaat met ten minste 25 procent in 2020, 55 procent in 2030 en 95 procent in 2050. Uiterlijk in 2050 hebben we alleen nog schone energie. Nederland streeft naar twee tot drie procent energiebesparing per jaar. De Klimaatwet garandeert dat Nederland met de maatregelen die genomen worden deze doelstellingen haalt.",
+      "slug" : "klimaatwet"
     },
     {
-        "id" : "90d9c7aa-bc0b-4b37-8a82-2d3c8b541a16",
-        "tekst_kort" : "Deze kabinetsperiode sluiten we de kolencentrales. In Nederlandse havens wordt de overslag van kolen gestaakt.",
-        "tekst_vol" : "Deze kabinetsperiode sluiten we de kolencentrales. In Nederlandse havens wordt de overslag van kolen gestaakt. Er wordt een begin gemaakt met het uitfaseren van olie-, benzine- en dieselterminals.",
-        "slug" : "kolencentrales",
-        "url" : "https://groenlinksprogramma.nl/kolencentrales/",
-        "hoofdstuk" : 1,
-        "paragraaf" : 1,
-        "nummer" : 2
+      "tekst" : "Deze kabinetsperiode sluiten we de kolencentrales. In Nederlandse havens wordt de overslag van kolen gestaakt. Er wordt een begin gemaakt met het uitfaseren van olie-, benzine- en dieselterminals.",
+      "slug" : "kolencentrales"
     },
     {
-        "id" : "7fb2c46e-b20f-4302-90ac-0570cfb53424",
-        "tekst_kort" : "De kerncentrale in Borssele gaat dicht. Er komen geen nieuwe kerncentrales.",
-        "tekst_vol" : "De kerncentrale in Borssele gaat dicht. Er komen geen nieuwe kerncentrales. De Nederlandse onderzoeksreactoren worden uitgefaseerd naarmate voldoende vervangende faciliteiten zijn gerealiseerd die nauwelijks tot geen radioactief afval veroorzaken. We schuiven de problemen rond het radioactieve afval niet door naar volgende generaties. Ook voor radioactief afval geldt dat de vervuiler de kosten betaalt.",
-        "slug" : "kerncentrale",
-        "url" : "https://groenlinksprogramma.nl/kerncentrale/",
-        "hoofdstuk" : 1,
-        "paragraaf" : 1,
-        "nummer" : 3
+      "tekst" : "De kerncentrale in Borssele gaat dicht. Er komen geen nieuwe kerncentrales. De Nederlandse onderzoeksreactoren worden uitgefaseerd naarmate voldoende vervangende faciliteiten zijn gerealiseerd die nauwelijks tot geen radioactief afval veroorzaken. We schuiven de problemen rond het radioactieve afval niet door naar volgende generaties. Ook voor radioactief afval geldt dat de vervuiler de kosten betaalt.",
+      "slug" : "kerncentrale"
     },
     {
-        "id" : "65a6faf3-8286-43dd-b10f-1034fc1e6ae5",
-        "tekst_kort" : "Met het huidige belastingstelsel wordt milieuvervuiling gesubsidieerd en werk- gelegenheid belast. Dat gaan we omkeren.",
-        "tekst_vol" : "Met het huidige belastingstelsel wordt milieuvervuiling gesubsidieerd en werk- gelegenheid belast. Dat gaan we omkeren. We stoppen met de subsidies op gas. Grootverbruikers gaan evenredig betalen voor CO2-uitstoot. Duurzame energie en energiebesparing worden scaal gestimuleerd. Schone energie, bijvoorbeeld opgewekt met zonnepanelen, wordt voor kleinverbruikers en Verenigingen van Eigenaren niet belast. Netbeheerders krijgen de taak en de ruimte om de overgang naar een schone energievoorziening te faciliteren. Wetgeving en het belastingsysteem worden verder beter ingericht voor het energiesysteem van de toekomst, bijvoorbeeld met variabele tarieven om vraag en aanbod af te stemmen en een vergoeding voor opslagcapaciteit. Overheden krijgen geen korting meer op de energiebelasting bij grootverbruik. Dit wordt gecompenseerd via het Gemeentefonds.",
-        "slug" : "groen-belastingstelsel",
-        "url" : "https://groenlinksprogramma.nl/groen-belastingstelsel/",
-        "hoofdstuk" : 1,
-        "paragraaf" : 1,
-        "nummer" : 4
+      "tekst" : "Met het huidige belastingstelsel wordt milieuvervuiling gesubsidieerd en werk- gelegenheid belast. Dat gaan we omkeren. We stoppen met de subsidies op gas. Grootverbruikers gaan evenredig betalen voor CO2-uitstoot. Duurzame energie en energiebesparing worden scaal gestimuleerd. Schone energie, bijvoorbeeld opgewekt met zonnepanelen, wordt voor kleinverbruikers en Verenigingen van Eigenaren niet belast. Netbeheerders krijgen de taak en de ruimte om de overgang naar een schone energievoorziening te faciliteren. Wetgeving en het belastingsysteem worden verder beter ingericht voor het energiesysteem van de toekomst, bijvoorbeeld met variabele tarieven om vraag en aanbod af te stemmen en een vergoeding voor opslagcapaciteit. Overheden krijgen geen korting meer op de energiebelasting bij grootverbruik. Dit wordt gecompenseerd via het Gemeentefonds.",
+      "slug" : "groen-belastingstelsel"
     },
     {
-        "id" : "647cf612-a81f-4d22-9316-e6e4e762dd13",
-        "tekst_kort" : "Er komt een heffing op CO2-uitstoot zodat de uitstoot omlaaggaat.",
-        "tekst_vol" : "Er komt een heffing op CO2-uitstoot zodat de uitstoot omlaaggaat. Deze CO2-hef ng wordt breed ingevoerd, ook voor bedrijven die nu niet onder het emissiehandelssysteem vallen. In Europees verband willen we het overschot aan emissierechten schrappen en een einde maken aan het gratis weggeven van CO2-rechten. Zolang dat niet geregeld is, zorgt de CO2-hef ng voor een bodemprijs voor CO2. Zo stimuleert de prijs van CO2 de overgang naar een duurzame economie.",
-        "slug" : "co2-heffing",
-        "url" : "https://groenlinksprogramma.nl/co2-heffing/",
-        "hoofdstuk" : 1,
-        "paragraaf" : 1,
-        "nummer" : 5
+      "tekst" : "Er komt een heffing op CO2-uitstoot zodat de uitstoot omlaaggaat. Deze CO2-heffing wordt breed ingevoerd, ook voor bedrijven die nu niet onder het emissiehandelssysteem vallen. In Europees verband willen we het overschot aan emissierechten schrappen en een einde maken aan het gratis weggeven van CO2-rechten. Zolang dat niet geregeld is, zorgt de CO2-heffing voor een bodemprijs voor CO2. Zo stimuleert de prijs van CO2 de overgang naar een duurzame economie.",
+      "slug" : "co2-heffing"
     },
     {
-        "id" : "dcb82d26-a285-49c8-9217-f61b6cc9b743",
-        "tekst_kort" : "Uitgangspunt bij de gaswinning in Groningen is de veiligheid van de inwoners.",
-        "tekst_vol" : "Uitgangspunt bij de gaswinning in Groningen is de veiligheid van de inwoners. De gaswinning in Groningen wordt teruggeschroefd naar maximaal 21 miljard kuub per jaar. Jaarlijks wordt een nieuw besluit genomen over de verdere verlaging. Schade door mijnbouwactiviteiten wordt volledig vergoed. Proefboringen en zoutwinning in het Waddengebied worden niet toegestaan. Er worden geen vergunningen verstrekt voor boringen naar schaliegas en geen nieuwe vergunningen voor boren naar steenkoolgas. Er komt een exit-strategie voor het winnen van fossiele brandstoffen; we stappen zo snel mogelijk af van het gebruik van fossiel gas. Nederland moet hierbij een leidende rol vervullen. In lege gasvelden en zoutcavernes worden geen stoffen opgeslagen die op den duur een gevaar kunnen vormen voor de volksgezondheid of ons leefmilieu.",
-        "slug" : "gaswinning-groningen",
-        "url" : "https://groenlinksprogramma.nl/gaswinning-groningen/",
-        "hoofdstuk" : 1,
-        "paragraaf" : 1,
-        "nummer" : 6
+      "tekst" : "Uitgangspunt bij de gaswinning in Groningen is de veiligheid van de inwoners. De gaswinning in Groningen wordt teruggeschroefd naar maximaal 21 miljard kuub per jaar. Jaarlijks wordt een nieuw besluit genomen over de verdere verlaging. Schade door mijnbouwactiviteiten wordt volledig vergoed. Proefboringen en zoutwinning in het Waddengebied worden niet toegestaan. Er worden geen vergunningen verstrekt voor boringen naar schaliegas en geen nieuwe vergunningen voor boren naar steenkoolgas. Er komt een exit-strategie voor het winnen van fossiele brandstoffen; we stappen zo snel mogelijk af van het gebruik van fossiel gas. Nederland moet hierbij een leidende rol vervullen. In lege gasvelden en zoutcavernes worden geen stoffen opgeslagen die op den duur een gevaar kunnen vormen voor de volksgezondheid of ons leefmilieu.",
+      "slug" : "gaswinning-groningen"
     },
     {
-        "id" : "939dc386-1393-4d73-87dc-c7a9f7099a66",
-        "tekst_kort" : "De subsidie voor het verbranden van vaste biomassa wordt beëindigd voor kolencentrales en uitgefaseerd voor andere installaties",
-        "tekst_vol" : "De subsidie voor het verbranden van vaste biomassa wordt beëindigd voor kolencentrales en uitgefaseerd voor andere installaties voor stroom- en warmteproductie. Voor de gehele keten van ge mporteerde biomassa die wordt gebruikt voor de productie van energie worden strenge duurzaamheidscriteria opgenomen in de wet.",
-        "slug" : "subsidie-biomassa",
-        "url" : "https://groenlinksprogramma.nl/subsidie-biomassa/",
-        "hoofdstuk" : 1,
-        "paragraaf" : 1,
-        "nummer" : 7
+      "tekst" : "De subsidie voor het verbranden van vaste biomassa wordt beëindigd voor kolencentrales en uitgefaseerd voor andere installaties voor stroom- en warmteproductie. Voor de gehele keten van geïmporteerde biomassa die wordt gebruikt voor de productie van energie worden strenge duurzaamheidscriteria opgenomen in de wet.",
+      "slug" : "subsidie-biomassa"
     },
     {
-        "id" : "e5babd8f-6b98-4d00-aebc-19a4375980e8",
-        "tekst_kort" : "De toekomst van onze economie is groen.",
-        "tekst_vol" : "De toekomst van onze economie is groen. De verantwoordelijkheid voor economie, klimaat en energie moet onder één bewindspersoon vallen. Daarom komt er een ministerie voor Klimaat en Duurzame Economie.",
-        "slug" : "toekomst-economie-groen",
-        "url" : "https://groenlinksprogramma.nl/toekomst-economie-groen/",
-        "hoofdstuk" : 1,
-        "paragraaf" : 1,
-        "nummer" : 8
+      "tekst" : "De toekomst van onze economie is groen. De verantwoordelijkheid voor economie, klimaat en energie moet onder één bewindspersoon vallen. Daarom komt er een ministerie voor Klimaat en Duurzame Economie.",
+      "slug" : "toekomst-economie-groen"
     },
     {
-        "id" : "0b0f0a10-efad-45ba-8840-5854ee856b5b",
-        "tekst_kort" : "Er komt een Groene investeringsbank die de marktsector stimuleert",
-        "tekst_vol" : "Er komt een Groene investeringsbank die de marktsector stimuleert om samen met de overheid meer te investeren in grote groene projecten, innovatie en duurzame landbouw. De ontwikkeling van nieuwe technologie laten we niet alleen aan de markt over. De overheid werkt samen met kapitaalverschaffers, universiteiten en innovatieve bedrijven om technologische ontwikkeling te stimuleren en de economie te vergroenen. Groene start-ups krijgen de kans om de markt in beweging te zetten. Zo ontstaan clusters voor groene innovatie, bijvoorbeeld een Green Car Valley voor elektrische mobiliteit in Zuid-Nederland.",
-        "slug" : "groene-investeringsbank",
-        "url" : "https://groenlinksprogramma.nl/groene-investeringsbank/",
-        "hoofdstuk" : 1,
-        "paragraaf" : 2,
-        "nummer" : 9
+      "tekst" : "Er komt een Groene investeringsbank die de marktsector stimuleert om samen met de overheid meer te investeren in grote groene projecten, innovatie en duurzame landbouw. De ontwikkeling van nieuwe technologie laten we niet alleen aan de markt over. De overheid werkt samen met kapitaalverschaffers, universiteiten en innovatieve bedrijven om technologische ontwikkeling te stimuleren en de economie te vergroenen. Groene start-ups krijgen de kans om de markt in beweging te zetten. Zo ontstaan clusters voor groene innovatie, bijvoorbeeld een Green Car Valley voor elektrische mobiliteit in Zuid-Nederland.",
+      "slug" : "groene-investeringsbank"
+    },
+    {
+      "tekst" : "We richten de groene industriepolitiek op de ontwikkeling van de circulaire economie. We hervormen het topsectorenbeleid en richten het subsidie- en investeringsbeleid op grote maatschappelijke vraagstukken. De overheid stimuleert onderzoek, innovatie en toepassing van grondstoffenbesparing en hergebruik.",
+      "slug" : "groene-industriepolitiek"
+    },
+    {
+      "tekst" : "Nederland pleit voor een ambitieus Europees actieplan circulaire economie en het vastleggen van normen voor grondstoffenhergebruik en productvoorschriften. Binnen de Europese Unie ijvert Nederland ervoor dat bedrijven geen grondstoffen gebruiken waarvan de winning of productie verbonden is met conflicten, uitbuiting, landroof of grote milieuschade. Belastingmaatregelen gericht op minder grondstoffenverbruik, zoals een lager btw-tarief op reparaties, bevorderen de circulaire economie. In het Bouwbesluit worden ook normen ten aanzien van circulair en biobased bouwen opgenomen. Er wordt meer vaart gemaakt bij het sluiten van de kringloop van fosfaat en andere voedingsstoffen, onder meer door terugwinning uit rioolwater en andere afvalstromen.",
+      "slug" : "circulaire-economie"
+    },
+    {
+      "tekst" : "Producenten worden via heffingen aangespoord om verantwoordelijkheid te nemen voor de afvalfase van hun producten en diensten. Om nodeloze verpakkingen te beperken, gaan producenten betalen voor de hoeveelheid verpakking die zij voor hun producten gebruiken. De belasting op het storten, verbranden en exporteren van afval wordt verhoogd.",
+      "slug" : "schone-productie"
+    },
+    {
+      "tekst" : "Met een investeringsplan voor openbaar vervoer maken we reizen sneller, gemakkelijker en schoner. Er komt extra treincapaciteit en het onderhoud van spoor en treinen wordt verbeterd. In steden komen meer metro’s, trams en elektrische bussen.",
+      "slug" : "beter-openbaar-vervoer"
+    },
+    {
+      "tekst" : "Met een investeringsplan voor schone energie bouwen we windparken op de Noordzee die miljoenen huishoudens van elektriciteit kunnen voorzien. Nederland neemt initiatief voor het Noordzeenet voor schone stroom met omringende landen. Er komen windmolens langs snelwegen en zonnepanelen op alle overheidsgebouwen. We geven ruimte aan bijvoorbeeld energiecoöperaties zodat decentraal geïnvesteerd kan worden in slimme energienetwerken en mensen aandeelhouder kunnen worden van schone energie.",
+      "slug" : "schone-energie"
+    },
+    {
+      "tekst" : "Caribisch Nederland wordt een proeftuin voor duurzame energie en gaat zo in zijn eigen energie voorzien. Ook Curaçao, Aruba en Sint Maarten krijgen steun bij de energietransitie.",
+      "slug" : "energietransitie-antillen"
+    },
+    {
+      "tekst" : "Met een investeringsplan voor energiezuinige woningen worden Nederlandse huishoudens binnen een periode van vijftien jaar onafhankelijk van gas voor hun warmte- en stroomvoorziening. Woningcorporaties krijgen een investeringsplicht om bestaande huurwoningen energiezuiniger te maken. Er komt een verbod op het verhuren van woningen met de slechtste energielabels. Dit verbod wordt stapsgewijs aangescherpt. De totale woonlasten voor huurders mogen niet stijgen als gevolg van energiebesparingsmaatregelen. Alle nieuwbouw is binnen twee jaar energieneutraal. Koopwoningen en ander vastgoed worden verplicht in hoog tempo energiezuiniger. Voor huiseigenaren komt daartoe gebouwgebonden nanciering beschikbaar. De verplichting voor bedrijven en instellingen om alle investeringen te doen die zich binnen vijf jaar terugverdienen blijft minimaal behouden; bij voorkeur wordt deze aangevuld met een stappenplan naar een klimaatneutrale bedrijfsvoering in 2050 van elke grootgebruiker van energie.",
+      "slug" : "energiezuinige-woningen"
+    },
+    {
+      "tekst" : "Gasleidingen aan het eind van hun levensduur worden niet vervangen. Gemeenten coördineren de transitie naar een duurzame energievoorziening, in samenwerking met de lokale netbeheerder(s) en relevante stakeholders in het gebied. De aansluitplicht op gas wordt zo snel mogelijk geschrapt. Gemeenten worden bevoegd gezag voor keuzes van energiesystemen in nieuwe en bestaande wijken. Alle nieuwbouw is gasloos.",
+      "slug" : "gas-voor-woningen"
+    },
+    {
+      "tekst" : "Overheidsinstanties gaan volledig duurzaam inkopen en aanbesteden, van schone stroom tot circulaire gebouwen. Dit wordt bij aanbestedingsopdrachten bereikt door te gunnen op waarde, waarbij niet de aanschafprijs leidend is maar kwaliteit en duurzaamheid.",
+      "slug" : "duurzaam-inkopen-aanbesteden"
+    },
+    {
+      "tekst" : "We hervormen de nanciële sector zodat deze de samenleving weer dient en de overgang naar een duurzame economie versnelt. Banken, verzekeraars en pensioenfondsen worden beoordeeld op hun langetermijnvooruitzichten, waaronder de milieu- en sociale risico’s die zij lopen met bijvoorbeeld investeringen in de fossiele industrie. Financiële innovaties moeten gericht zijn op duurzame economische investeringen waardoor kapitaal beschikbaar komt voor groene start-ups en duurzame bedrijven.",
+      "slug" : "financiele-sector"
+    },
+    {
+      "tekst" : "We pakken belastingontwijking door multinationals aan door het beperken van  scale ontwijkingsmogelijkheden via onder meer de innovatiebox, doorsluisconstructies en vestigingen in belastingparadijzen. Nederland zet zich in voor een geharmoniseerde Europese grondslag voor de vennootschapsbelasting met een minimumtarief.",
+      "slug" : "belastingontwijking-multinationals"
+    },
+    {
+      "tekst" : "Multinationals worden verplicht per land openbaar te maken hoeveel vennootschapsbelasting zij betalen, hoeveel winst zij maken en wat de omvang van hun activiteiten is. Speciale belastingafspraken met de scus worden openbaar gemaakt.",
+      "slug" : "multinationals-openbaarheid"
+    },
+    {
+      "tekst" : "Belastingverdragen met ontwikkelingslanden worden aangepast en voorzien van een antimisbruikbepaling. Bij onderhandelingen worden de belangen van ontwikkelingslanden beschermd.",
+      "slug" : "belastingverdragen"
+    },
+    {
+      "tekst" : "We verscherpen het toezicht op trustkantoren die nu werken voor brievenbusfirma’s. We saneren de sector met strenge regels en door illegale praktijken harder aan te pakken. Er komt een openbaar register waarin staat wie de eigenaar is van een brievenbusfirma en wie profiteert van constructies via brievenbusfirma’s en trustkantoren.",
+      "slug" : "brievenbusfirmas"
+    },
+    {
+      "tekst" : "De buffers van de banken gaan fors omhoog zodat de risico’s die zij nemen niet op de belastingbetaler afgewenteld worden. Risicovolle zakenbankactiviteiten en handel voor eigen rekening van banken worden gescheiden van de spaartegoeden voor consumenten en bedrijven. De SNS Bank blijft in handen van de Nederlandse staat en krijgt als voorbeeldbank een maatschappelijke missie.",
+      "slug" : "buffers-banken"
+    },
+    {
+      "tekst" : "Door nieuwe financiële producten voor consumenten vooraf te laten toetsen door de toezichthouders op begrijpelijkheid en risico’s, worden producten als woekerpolissen onmogelijk gemaakt. We werken met andere landen samen aan een heffing op financiële transacties die speculatieve handel tegengaat en markten stabiliseert.",
+      "slug" : "financiele-producten"
+    },
+    {
+      "tekst" : "Geldschepping moet de samenleving dienen. Bij de standpuntbepaling over geldschepping, na afsluiting van het onderzoek van de Wetenschappelijke Raad voor het Regeringsbeleid, zijn onze uitgangspunten een goede democratische controle op geldschepping, het voorkomen van financiële zeepbellen en het creëren van ruimte voor publieke bestedingen. We stimuleren dat geld in de productieve economie terechtkomt en ontmoedigen speculatie.",
+      "slug" : "geldschepping"
+    },
+    {
+      "tekst" : "In de Tweede Kamer komt een jaarlijks debat over de staat van het financiële systeem, waarbij de stabiliteit en de integrale samenhang met overheidsbeleid aan de orde komen.",
+      "slug" : "financieel-debat"
+    },
+    {
+      "tekst" : "We maken met vakbonden en werkgevers afspraken over stijging van lonen, eerlijke inkomensverhoudingen, gelijke beloning voor gelijk werk en het delen van economische vooruitgang. Daarvoor wordt een nieuw sociaal akkoord gesloten. De overheid geeft het voorbeeld door reële loonsverhoging te geven aan politieagenten, leerkrachten en werkenden in de zorg. Werknemers krijgen meer zeggenschap. Vermogensaanwasdeling dient te worden gestimuleerd, al dan niet scaal.",
+      "slug" : "sociaal-akkoord"
+    },
+    {
+      "tekst" : "Via een hogere arbeidskorting en inkomensafhankelijke combinatiekorting worden de belastingen voor lage en middeninkomens fors verlaagd. Voor de laagste inkomens, werkenden en niet-werkenden, die nauwelijks belasting betalen worden belastingkortingen uitbetaald als een negatieve inkomstenbelasting: hun netto-inkomen stijgt. Topinkomens worden zwaarder belast. De mazen in de wet waardoor bankiers nog steeds hoge bonussen krijgen, worden gedicht.",
+      "slug" : "inkomstenbelasting"
+    },
+    {
+      "tekst" : "Het toeslagen- en belastingstelsel wordt vereenvoudigd en meer gericht op het aanpakken van inkomensongelijkheid en armoede. Gemeenten krijgen meer financiële ruimte om armoedebeleid te voeren, bijvoorbeeld door het uitbreiden van bijzondere bijstand.",
+      "slug" : "belastingstelsel"
+    },
+    {
+      "tekst" : "Er komen kwijtscheldingsregelingen voor mensen met zeer problematische schulden. De schuldenproblematiek onder jongeren wordt tegengegaan door fors te investeren in preventie.",
+      "slug" : "kwijtschelding"
+    },
+    {
+      "tekst" : "We fiscaliseren de AOW en verhogen de inkomens van ouderen die een beperkt of helemaal geen aanvullend pensioen hebben. We beperken de fiscale subsidiëring van pensioenen van de hoge inkomens. Voor mensen die vanwege een gat in de AOW-opbouw onder het regime van bijstand terecht komen, moeten de vermogenstoets en de kostendelersnorm niet van toepassing zijn.",
+      "slug" : "aow"
+    },
+    {
+      "tekst" : "In Caribisch Nederland zetten we sterk in op armoedebestrijding, om te beginnen met het vaststellen van een sociaal minimum dat voldoende is om van rond te komen.",
+      "slug" : "cariben-armoedebestrijding"
+    },
+    {
+      "tekst" : "Het maken van schulden door bedrijven wordt niet langer fiscaal gestimuleerd. Voor huizenbezitters wordt de fiscale subsidiëring beperkt door de hypotheekrenteaftrek versneld af te bouwen.",
+      "slug" : "hypotheekrenteaftrek"
+    },
+    {
+      "tekst" : "Er komt een Piketty-belasting: een progressieve belasting op vermogen op basis van reëel rendement. Wie veel vermogen heeft gaat meer betalen; mensen met enkel wat spaargeld betalen minder.",
+      "slug" : "vermogensbelasting"
+    },
+    {
+      "tekst" : "Directeur-grootaandeelhouders krijgen minder mogelijkheden om winsten lange tijd onbelast te laten; inkomen en vermogen in box 2 van het belastingstelsel worden zwaarder belast.",
+      "slug" : "box-2"
+    },
+    {
+      "tekst" : "De erfbelasting is nu te veel gericht op traditionele gezinsverhoudingen. De hoogte van het belastingtarief wordt minder afhankelijk van aan wie de erfenis wordt nagelaten: je moet net zo makkelijk kunnen schenken aan een vriend als aan je echtgenoot. De vrijstelling van erfbelasting voor woning aan de partner wordt uitgebreid. Erfenissen van grote vermogens worden zwaarder belast.",
+      "slug" : "erfbelasting"
+    },
+    {
+      "tekst" : "Te veel kinderen worden ingeschaald op een lager onderwijsniveau dan ze aankunnen, vaak gebaseerd op vooroordelen rondom etniciteit of sociaal-economische achtergrond. Wij willen dat hier meer aandacht voor komt in de lerarenopleidingen en trainingen voor leerkrachten. Kinderen moeten vaker het voordeel van de twijfel krijgen om een hoger niveau te proberen. We leggen wettelijk vast dat alle kinderen een dubbel schooladvies – bijvoorbeeld vmbo/havo – kunnen krijgen. Scholen in het voortgezet onderwijs worden niet meer afgerekend op hun rendement, waardoor ze kinderen vaker de kans geven een hoger niveau te volgen. Om een soepele doorstroom van leerlingen te bevorderen en de kwaliteit van het onderwijs te verhogen wordt het voor scholen in het basis- en voortgezet onderwijs mogelijk bevoegde docenten uit te wisselen.",
+      "slug" : "schooladvies"
+    },
+    {
+      "tekst" : "Openbare Cito-scores per school worden nu gebruikt voor beoordeling van de school en als marketinginstrument. Scholen zijn te veel gericht op het halen van hoge toetsscores. De Cito-score wordt daarom niet meer openbaar gemaakt. Scholen worden beoordeeld op de kwaliteit van de lessen, niet op Cito-scores. De onderwijs- inspectie voor het basis- en voortgezet onderwijs gaat meer kwalitatief beoordelen en krijgt een coachende rol. Op het voortgezet onderwijs wordt afgezien van de rekentoets.",
+      "slug" : "cito-toets"
+    },
+    {
+      "tekst" : "Ieder kind heeft recht op een brede brugklas zodat er genoeg tijd is om een goede schoolrichting te kiezen. Dat betekent dat iedere school met een divers aanbod een tweejarige brede brugklas aanbiedt als optie voor leerlingen. Scholen krijgen voor deze leerlingen in een brede brugklas extra bekostiging. Dat betekent ook dat kinderen tot de derde klas van de middelbare school de tijd hebben om hun definitieve schoolrichting te kiezen. Leerlingen kunnen vakken waar ze goed in zijn op een hoger niveau volgen en één vak op lager niveau. Zo sluit het onderwijs beter aan bij hun talenten.",
+      "slug" : "brede-brugklas"
+    },
+    {
+      "tekst" : "Het beroepsonderwijs wordt versterkt. Vmbo- en mbo-instellingen gaan beter met elkaar samenwerken voor een soepele doorstroom. Voor vmbo-basis- en kaderleerlingen komt er een mogelijkheid om aansluitend in een of twee jaar op dezelfde school een startkwalificatie te behalen. De opleidingseisen voor leerkrachten op het vmbo gaan omhoog. Zij krijgen een betere beloning voor hun werk en ruimte om door te groeien. Er komen meer middelen voor het vmbo, ter ondersteuning van de lessen, en om de leerlingen de benodigde aandacht te kunnen geven, bijvoorbeeld voor de mogelijkheid van een onderwijsassistent in elke vmbo-klas. Er komen meer ambachtsscholen voor vakmensen.",
+      "slug" : "beter-beroepsonderwijs"
+    },
+    {
+      "tekst" : "Stapelen van diploma’s is een belangrijk principe voor sociale mobiliteit. Jongeren krijgen een doorstroomrecht: een diploma is een diploma en geeft zonder extra voorwaarden recht op vervolgonderwijs. Op alle niveaus wordt het mogelijk door te stromen naar een volgende opleiding. Zowel de aansluiting van mbo naar hbo, als de aansluiting van hbo naar wo, wordt verbeterd. De extra toegangseisen vervallen, lesprogramma’s moeten beter op elkaar aansluiten en er komen goede schakelprogramma’s.",
+      "slug" : "diplomas-stapelen"
+    },
+    {
+      "tekst" : "We investeren in leerkrachten zowel in het basisonderwijs als in het voortgezet onderwijs. Er komen meer leerkrachten. Vooral voor beginnende leerkrachten wordt de werkdruk verlaagd. Klassen worden verkleind tot maximaal 29 leerlingen gemiddeld op school- of locatieniveau. Binnen zes jaar wordt dit aantal verlaagd naar 23 leerlingen. Scholen krijgen de mogelijkheid om lesuren voor docenten te verminderen of extra ondersteuning te organiseren. Docenten krijgen betere opleidingen, meer begeleiding en bijscholing. Zo wordt het onderwijs verbeterd en hebben docenten voldoende tijd voor kinderen die een extra uitdaging nodig hebben of juist extra aandacht behoeven. Er komt een verhoging van salarissen en verbetering van carrièremogelijkheden voor leerkrachten in het basisonderwijs.",
+      "slug" : "investeren-in-onderwijs"
+    },
+    {
+      "tekst" : "De onderwijsinspectie ziet strenger toe op het halen van kerndoelen in het onderwijs juist rondom de waarden die wij noodzakelijk achten en die leiden tot een compleet (wereld)burgerschap met oog voor mens en natuur. Koloniaal verleden, migratiegeschiedenis, diversiteit en anti-discriminatie worden onderdeel van de kerndoelen in zowel het basis- als voortgezet onderwijs. Bestrijding van vooroordelen over gender en seksualiteit wordt onderdeel van de zorgplicht van alle scholen.",
+      "slug" : "kerndoelen-onderwijs"
+    },
+    {
+      "tekst" : "Segregatie in het onderwijs op en door scholen wordt tegengegaan. De kansenongelijkheid tussen kinderen wordt verkleind door bijvoorbeeld een vast aanmeldmoment voor basisscholen.",
+      "slug" : "segregatie-in-onderwijs"
+    },
+    {
+      "tekst" : "Het passend onderwijsstelsel is nog niet geslaagd. Te veel kinderen zitten thuis en leerkrachten ervaren in klassen met kinderen met functiebeperking nog enorm veel werkdruk. Kinderen vallen daardoor tussen wal en schip en krijgen niet het onderwijs dat ze nodig hebben. Er komt meer geld voor kleinere klassen, het inschakelen van extra begeleiding en ondersteuning en zo nodig voor het speciaal onderwijs. Leerplichtambtenaren krijgen doorzettingsmacht om kinderen met een beperking op scholen te plaatsen. Er komt landelijk één definitie van basiszorg dat de minimumondersteuning omschrijft die iedere school moet bieden. Leerlingen met een (meervoudige) beperking die geen regulier onderwijs kunnen volgen, kunnen kosteloos onderwijs volgen of naar de dagbesteding. Voor het onderwijsdeel en de onderwijsondersteuning wordt geen eigen bijdrage uit het persoonsgebonden budget gevraagd.",
+      "slug" : "passend-onderwijs"
+    },
+    {
+      "tekst" : "We gaan de sluipende privatisering van het onderwijs tegen. Scholen krijgen budget om bijspijkerlessen op school aan te bieden, zodat elke leerling die dat nodig heeft er gebruik van kan maken. Ook kunnen scholen de mogelijkheid bieden aan leerlingen met een achterstand om een weekend- of zomerschool te volgen. Zo zorgen we dat elk kind, ongeacht de portemonnee van de ouders, gelijke kansen in het onderwijs heeft.",
+      "slug" : "privatisering-onderwijs"
+    },
+    {
+      "tekst" : "Artikel 23 dient te worden herzien met als oogmerk dat de overheid kwalitatief goed onderwijs voor iedereen aanbiedt, nanciert en op kwaliteit controleert. Daarbovenop kunnen ouders zelf vormen van bijzonder onderwijs aanbieden in de eigen tijd en door henzelf gefinancierd.",
+      "slug" : "artikel-23"
+    },
+    {
+      "tekst" : "Het bestuur en toezicht van scholen en onderwijsinstellingen wordt gedemocratiseerd. Leerlingen, deelnemers, studenten, ouders, en docenten krijgen meer zeggenschap over het beleid van scholen, onderwijsinstellingen en schoolbesturen. Medezeggenschapsorganen krijgen meer rechten zoals instemmingsrecht op de benoeming van bestuurders, op de begroting en op het samengaan, zelfstandig worden van scholen of het sluiten of samenvoegen van opleidingen.",
+      "slug" : "scholen-democratiseren"
+    },
+    {
+      "tekst" : "Elk kind moet de ruimte krijgen om zich te ontwikkelen. Alle kinderen tussen zes maanden en vier jaar krijgen recht op drie dagen kinderopvang per week. De kwaliteit van de kinderopvang gaat omhoog door meer aandacht te besteden aan de ontwikkeling van kinderen en aan de pedagogische vaardigheden van medewerkers. Kinderopvangcentra hebben geen winstoogmerk.",
+      "slug" : "kinderopvang"
+    },
+    {
+      "tekst" : "Om gedurende de dag formeel leren te kunnen afwisselen met sport, cultuur en andere vormen van informeel leren is het nodig dat kinderen vanaf 4 jaar een toegangsrecht hebben tot wat nu buitenschoolse opvang heet. Daarmee kunnen kinderen namelijk aan het brede programma deelnemen dat deze kindvoorzieningen aanbieden en hun talenten over de volle breedte ontwikkelen. Dit toegangsrecht zal op termijn tien tot twaalf uur omvatten.",
+      "slug" : "buitenschoolse-opvang"
+    },
+    {
+      "tekst" : "Het onderwijs, de kinderopvang, peuterspeelzalen, voor- en vroegschoolse educatie en jeugdzorg worden gestimuleerd om hechter samen te werken. In het bijzonder worden zij wettelijk en financieel gestimuleerd brede voorzieningen te ontwikkelen, zoals kindcentra. Kinderen kunnen gedurende de hele dag formele en informele programma’s volgen met ruimte voor sport, spel, cultuur en natuur.",
+      "slug" : "samenwerking-onderwijs-opvang"
+    },
+    {
+      "tekst" : "Bij de fysieke inrichting van deze brede scholen en kindcentra wordt rekening gehouden met de mogelijkheid dat er ook warme maaltijden geserveerd kunnen worden. Elke school is een gezonde school. Daarom worden er op school gezonde maaltijden aangeboden en verdwijnen de obesogene prikkels zoals snoep- en fris- drankautomaten.",
+      "slug" : "gezonde-maaltijd-scholen-kindcentra"
+    },
+    {
+      "tekst" : "Om armoede bij kinderen te bestrijden richten we de kindregelingen en toeslagen op gezinnen met kinderen in armoede. We vereenvoudigen het stelsel. De kinderbijslag wordt inkomensafhankelijk en wordt samengevoegd tot één regeling met het kindgebonden budget, zodat kinderen niet meer in armoede hoeven op te groeien. De zogeheten vrijwillige ouderbijdrage in het basis- en voortgezet onderwijs en de eigen bijdragen die worden gevraagd voor digitale leermiddelen en devices worden beperkt tot een maximumbedrag dat voor iedere ouder redelijkerwijs is op te brengen.",
+      "slug" : "armoedebestrijding-kinderen"
+    },
+    {
+      "tekst" : "Ontplooiing, onderwijs en onderzoek staan voorop op hogescholen en universiteiten. Daar wordt ook de financiering en de besturing op afgestemd. Daardoor vermindert de prikkel bij onderwijsinstellingen om zo veel en zo snel mogelijk diploma’s te verstrekken. We verminderen de publicatiedruk voor onderzoekers. Wetenschappelijke publicaties worden vrij beschikbaar. Kleine, bijzondere opleidingen worden zo veel mogelijk gekoesterd. We staken het experiment prestatiebekostiging.",
+      "slug" : "ontplooiing-onderwijs-onderzoek-hoger-onderwijs"
+    },
+    {
+      "tekst" : "De toegankelijkheid van het hoger onderwijs wordt vergroot. Toenemende selectie aan de poort bij hogescholen en universiteiten wordt gestopt. Selectie aan de poort kan alleen bij uitzonderlijke opleidingen, zoals het conservatorium of bepaalde geneeskundestudies. Het bindend studieadvies en de harde knip tussen bachelor en master worden afgeschaft.",
+      "slug" : "toegankelijkheid-hoger-onderwijs"
+    },
+    {
+      "tekst" : "De aanvullende beurs voor studenten uit kansarme gezinnen wordt verhoogd en voor een ruimere groep beschikbaar gesteld. Het wettelijke vastgestelde collegegeld wordt gehalveerd en gemaximeerd. Het collegegeld voor een tweede studie wordt wettelijk gemaximeerd zodat deze weer betaalbaar wordt voor mensen die een tweede studie willen doen. Studenten met een functiebeperking krijgen een aanvullende beurs. De mogelijkheden om gebruik te maken van het studievoorschot worden uitgebreid van 30 jaar naar 40 jaar.",
+      "slug" : "betaalbaar-hoger-onderwijs"
+    },
+    {
+      "tekst" : "Het wordt makkelijker voor studenten om op andere instellingen vakken te volgen zodat ze meer vrijheid krijgen hun eigen studieprogramma vorm te geven.",
+      "slug" : "vrijheid-studieprogramma"
+    },
+    {
+      "tekst" : "De overheid stelt meer middelen beschikbaar voor onafhankelijk en fundamenteel onderzoek door universiteiten. Er gaat geld van de tweede naar de eerste geldstroom zodat de bureaucratie voor onderzoekers voor onderzoeksgeld daalt. Het aandeel vaste contracten kan daardoor stijgen.",
+      "slug" : "fundamenteel-onderzoek"
+    },
+    {
+      "tekst" : "Onze investeringen in de publieke sector zorgen voor banen in het onderwijs, in de zorg en bij de politie. Dat zijn kerntaken van de overheid. De loonkosten voor werk- gevers voor laagbetaalde arbeid worden verlaagd, zodat bedrijven meer mensen in dienst nemen.",
+      "slug" : "investeringen-publieke-sector"
+    },
+    {
+      "tekst" : "We verlagen de lasten op arbeid voor zowel de werkgevers als de werknemers. Dat zorgt voor meer werkgelegenheid voor lage en middeninkomens. Mensen met een laag loon houden netto meer over en kunnen gemakkelijker kiezen om in deeltijd te werken.",
+      "slug" : "lastenverlaging"
+    },
+    {
+      "tekst" : "We maken vaste contracten aantrekkelijker. Voor tijdelijke contracten moeten werkgevers een hogere prijs betalen onder andere via hogere WW-premies. Ook flexwerkers krijgen recht op een transitievergoeding vanaf de eerste dag dat zij werken.",
+      "slug" : "vaste-contracten"
+    },
+    {
+      "tekst" : "In samenhang met aanpassing van fiscale faciliteiten komt er voor zzp’ers, op een minimumniveau, een verplichte collectieve basisvoorziening voor arbeidsongeschiktheid. Flexwerkers en zzp’ers kunnen gemakkelijker voor hun pensioen sparen.",
+      "slug" : "zzp-ers"
+    },
+    {
+      "tekst" : "We maken een tweede meerjarig contract mogelijk, zodat mensen langer in dienst kunnen blijven bij een werkgever.",
+      "slug" : "2e-meerjarig-contract"
+    },
+    {
+      "tekst" : "De administratieve lasten en beperkende regelgeving voor zelfstandig werkenden in diverse, kleine opdrachten worden verminderd. Er komt een einde aan de achtergestelde positie van huishoudelijke werkers.",
+      "slug" : "zelfstandigen"
+    },
+    {
+      "tekst" : "Er komt een collectieve verzekering voor loondoorbetaling bij ziekte voor werkgevers met weinig werknemers. Zo wordt het loon bij ziekte in het tweede jaar betaald. Hiermee helpen we kleine en startende ondernemers.",
+      "slug" : "loondoorbetaling-ziekte"
+    },
+    {
+      "tekst" : "De AOW als basispensioen wordt fors verhoogd. Hierdoor zal iedereen met een klein of geen aanvullend pensioen later voldoende inkomen hebben. Het pensioenstelsel wordt gemoderniseerd. GroenLinks streeft naar een houdbaar stelsel waarin alle werkenden kunnen rekenen op een toereikend pensioen. De verdeling tussen generaties en tussen lager en hoger opgeleiden wordt rechtvaardiger. Het pensioenvermogen wordt collectief belegd en belangrijke risico’s worden collectief gedeeld. Binnen deze voorwaarden komt er meer ruimte voor maatwerk. Versnippering wordt tegengegaan. De transparantie wordt vergroot. Pensioendeelnemers krijgen beter inzicht in hun individuele opgebouwde pensioenaanspraak en krijgen keuzemogelijkheden om die in te zetten.",
+      "slug" : "aow-verhoging"
+    },
+    {
+      "tekst" : "We maken een einde aan de schijnconstructies waarbij mensen niet eerlijk betaald krijgen voor het werk dat ze doen. Stages kunnen alleen in het kader van een studie of als een student daarnaast nog studeert. Er komt meer controle op schijnzelfstandigheid. We maken een einde aan constructies waardoor buitenlandse werknemers goedkoop werken. Vanaf achttien jaar heeft iedereen recht op het wettelijk minimumloon.",
+      "slug" : "schijnconstructies"
+    },
+    {
+      "tekst" : "Bedrijven en organisaties krijgen een quotum voor het in dienst nemen van mensen met een beperking. Gemeenten krijgen de regie in het vormgeven van een inclusieve arbeidsmarkt en krijgen hiervoor voldoende budget. De bestaande infrastructuur van sociale werkbedrijven wordt hiervoor behouden.",
+      "slug" : "werknemers-met-beperking"
+    },
+    {
+      "tekst" : "We stimuleren levenslang leren en ontwikkeling en gaan laaggeletterdheid tegen, ook op latere leeftijd. Alle werknemers krijgen een individueel scholingsbudget. Deze scholingsrechten worden door werkgevers gefinancierd. Ook bijstandsgerechtigden krijgen een individueel scholingsbudget ge nancierd door de overheid. Volwassenen met een laag inkomen en geen startkwalificatie krijgen een voucher zodat ze een startkwali catie kunnen halen.",
+      "slug" : "scholingsbudget"
+    },
+    {
+      "tekst" : "Voor sekswerkers wordt gewerkt aan veilige werkplekken, het bevorderen van de autonomie en respect voor hun privacy en anonimiteit. De overheid ondersteunt initiatieven van sekswerkers die zich willen verenigen om op te komen voor hun belangen.",
+      "slug" : "sekswerkers"
+    },
+    {
+      "tekst" : "We schaffen de tegenprestatie in de bijstand af. Bijstandsgerechtigden krijgen persoonlijke en passende ondersteuning om de kans op werk te vergroten, zo nodig met loonkostensubsidie. Gemeenten krijgen de ruimte en financiële middelen om op eigen wijze participatie te stimuleren. Zij mogen experimenteren met nieuwe vormen van sociale zekerheid zoals een basisinkomen, waarbij keuzevrijheid, waardering en ontplooiing vooropstaan: minder regels, meer ruimte om bij te verdienen. Bij onopzettelijke gebreken worden geen boetes meer opgelegd. Er komt een landelijk, grootschalig, meerjarig, representatief experiment met het basisinkomen met het doel beter zicht te krijgen op de gedragseffecten ervan.",
+      "slug" : "bijstand"
+    },
+    {
+      "tekst" : "GroenLinks ondersteunt de gedachte achter de decentralisaties. De overheveling van taken is nog niet af. Rijksoverheid en gemeenten ontwikkelen daarom een gezamenlijk programma om de ‘lokale verzorgingsstaat’ verder vorm te geven. Ondersteuning voor de meest kwetsbare groepen, financiële zekerheid voor gemeenten en de rol van de gemeenteraad staan centraal in dit programma.",
+      "slug" : "decentralisatie"
+    },
+    {
+      "tekst" : "We waarderen mantelzorg en vrijwilligerswerk als gelijkwaardige vormen van participatie. De onbelaste vrijwilligersvergoeding gaat omhoog. Financiële drempels zoals de kostendelersnorm mogen geen belemmering zijn om voor elkaar te zorgen. Er komt geen mantelzorgboete in de AOW.",
+      "slug" : "vrijwilligerswerk"
+    },
+    {
+      "tekst" : "Ouders kunnen na de geboorte van hun kindje het eerste half jaar thuis voor de baby zorgen. Daarna kan elk kind gratis naar de kinderopvang. We passen daarom een aantal regelingen aan. Het kraamverlof voor vaders en verzorgende meeouder(s) gaat van twee dagen naar vier weken. Elke werknemer krijgt twee maanden betaald ouderschapsverlof, op te nemen in de eerste negen maanden bovenop het bestaande ouderschapsverlof. Zo kunnen twee ouders elk een periode thuis zijn en samen het eerste half jaar de zorg voor hun kind delen.",
+      "slug" : "ouderschapsverlof"
+    },
+    {
+      "tekst" : "Kinderopvang wordt een basisvoorziening: ieder kind tussen zes maanden en vier jaar heeft recht op drie dagen gratis opvang per week. Voor alleenstaande ouders geldt dit recht op kinderopvang vanaf het moment dat het kind drie maanden oud is.",
+      "slug" : "kinderopvang"
+    },
+    {
+      "tekst" : "GroenLinks staat voor een ontspannen samenleving waarin niet alles om werk draait en mensen de ruimte hebben om werk en zorgtaken te combineren, daarom wordt een vierdaagse werkweek uiteindelijk de norm.",
+      "slug" : "vierdaagse-werkweek"
+    },
+    {
+      "tekst" : "Bij bedrijven willen we de zeggenschap van werknemers vergroten. Ondernemingsraden krijgen adviesrecht over de winstbestemming en het recht om één lid van de Raad van Commissarissen te benoemen en terug te roepen. Flexwerkers krijgen meer inspraak: zij mogen zich eerder verkiesbaar stellen voor de ondernemingsraad. De overheid stimuleert coöperatieve ondernemingsvormen waarin werknemers zeggenschap hebben.",
+      "slug" : "zeggenschap-werknemers"
+    },
+    {
+      "tekst" : "We investeren in zorg en welzijn voor ouderen, mantelzorgers, mensen met een beperking, kinderen en jongeren die ondersteuning nodig hebben. We investeren extra in preventie, waarbij het zowel om de gezondheid als het sociaal functioneren gaat. Op buurtniveau wordt de samenwerking tussen huisartsen, wijkverpleging, ouderenzorg en sociaal werk verbeterd.",
+      "slug" : "zorg"
+    },
+    {
+      "tekst" : "Om de solidariteit tussen ziek en gezond en tussen oud en jong in de zorg te herstellen, roepen we de wildgroei aan zorgpolissen een halt toe. Er komen transparante verzekeringspolissen met een breed basispakket. Het aantal polissen wordt beperkt tot één naturapolis en één restitutiepolis per verzekeraar. Collectieve verzekeringen via werkgevers of maatschappelijke organisaties worden alleen toegestaan wanneer deze aantoonbaar gericht zijn op gezondheidswinst of betere kwaliteit van zorg. Om de solidariteit tussen arm en rijk te vergroten worden de zorgkosten gedeeld via progressieve belastingen. Het eigen risico wordt afgeschaft. De nominale premie voor de ziektekostenverzekering gaat fors omlaag.",
+      "slug" : "zorgkosten"
+    },
+    {
+      "tekst" : "Marktwerking in de zorg wordt strenger gereguleerd. In de driehoeksverhouding tussen zorgverleners, zorgverzekeraars en burgers is de macht van de zorgverzekeraars disproportioneel groot en dient meer in evenwicht gebracht te worden.",
+      "slug" : "marktwerking-zorg"
+    },
+    {
+      "tekst" : "Voorkomen van ziekte en ongezondheid is belangrijk. Er komen wijk- en doelgroepgerichte preventieprogramma’s. Zorgverzekeraars en gemeenten moeten samenwerken met bewoners om dit te stimuleren. Daarnaast zijn meerdere speci eke maatregelen nodig zoals: wettelijke normen voor het maximale gehalte aan zout, suiker en vet in producten als de huidige convenanten niet tot een gezonder productaanbod leiden. De hiv-preventiepil PrEP moet in het basispakket. Fietsen wordt een expliciet aandachtspunt in het gezondheidsbeleid. Verpakkingsmaterialen die schadelijke stoffen afgeven aan voedingsmiddelen, worden uit de handel genomen.",
+      "slug" : "zorg-preventie"
+    },
+    {
+      "tekst" : "De overheid zet zich met maatschappelijke partijen in voor het laten opgroeien van een rookvrije generatie. Verslavende toevoegingen aan sigaretten en tabak worden verboden en op terrassen komen rookvrije zones.",
+      "slug" : "rookvrij"
+    },
+    {
+      "tekst" : "We zorgen ervoor dat mensen meer zeggenschap krijgen over de inhoud van hun zorg. De vrijeartsenkeuze blijft behouden. Het persoonsgebonden budget (PGB) wordt ook mogelijk in de Zorgverzekeringswet. Er komt een integraal PGB voor mensen die ondersteuning krijgen bij zorg, participatie, scholing en wonen. Mensen die langdurig moeten verblijven in zorginstellingen krijgen meer mogelijkheden om zelf hun zorgaanbieder te kiezen. Zorgaanbieders in de GGZ en voor mensen met een verstandelijke beperking versterken de invloed van familie- en netwerkrelaties door het instellen van familie- en netwerkraden naast de cliëntenraden.",
+      "slug" : "zeggenschap-zorg"
+    },
+    {
+      "tekst" : "Er wordt meer geld uitgetrokken om de huidige wachtlijsten en gemeentelijke budgetplafonds in de GGZ weg te werken. Er komt meer en betere opvang voor daklozen en verwarde personen.",
+      "slug" : "ggz"
+    },
+    {
+      "tekst" : "Verspilling in de zorg wordt tegengegaan. Bij de inkoop en bekostiging van zorg moet het accent gelegd worden op preventie en verwachte gezondheidswinst, in plaats van de  nanciering van het aantal behandelingen. Bureaucratie wordt bestreden door het vereenvoudigen van procedures en regelgeving.",
+      "slug" : "verspilling-zorg"
+    },
+    {
+      "tekst" : "Zorgverzekeraars worden omgevormd tot stichtingen of verenigingen zonder winstoogmerk. De overheid ontwikkelt eenduidige richtlijnen voor de gewenste vermogensontwikkeling van zorginstellingen en zorgverzekeraars. De overheid maakt afspraken met zorgverzekeraars om het marketingbudget te halveren.",
+      "slug" : "zorgverzekeraars"
+    },
+    {
+      "tekst" : "Medisch specialisten gaan verplicht in loondienst en vallen onder de Wet normering topinkomens – de Balkenendenorm. Bestuurders van zorgverzekeraars vallen hier ook onder.",
+      "slug" : "medisch-specialisten"
+    },
+    {
+      "tekst" : "Om de marktmacht van de farmaceutische industrie te breken en lagere prijzen voor medicijnen af te dwingen, worden generieke medicijnen centraal door de overheid ingekocht, zo mogelijk op Europees niveau. De opbouw van medicijnprijzen moet door de industrie transparant gemaakt worden. Het ontwikkelen van open source medicijnen wordt gestimuleerd. In gezondheidsonderzoek wordt meer rekening gehouden met de fysieke verschillen tussen mannen en vrouwen.",
+      "slug" : "medicijnprijzen"
+    },
+    {
+      "tekst" : "Het medisch beroepsgeheim blijft gewaarborgd. Zonder toestemming van de patiënt krijgen zorgverzekeraars geen toegang tot medische dossiers.",
+      "slug" : "medisch-beroepsgeheim"
+    },
+    {
+      "tekst" : "Het actief donorregistratiesysteem wordt ingevoerd. Iedereen is donor, tenzij je aangeeft dat niet te willen. Zo vergroten we het aantal orgaandonoren.",
+      "slug" : "donorregistratie"
+    },
+    {
+      "tekst" : "Abortus wordt uit het Wetboek van Strafrecht gehaald. De verplichte bedenktijd bij abortus wordt afgeschaft.",
+      "slug" : "abortus"
+    },
+    {
+      "tekst" : "Euthanasie gaat uit het Wetboek van Strafrecht. Artsen zijn pas strafbaar wanneer ze zich niet aan de regels houden. Bij verzoek tot euthanasie komt er een plicht voor artsen die vanwege gewetensbezwaren niet aan een verzoek willen voldoen om door te verwijzen naar een andere, welwillende arts. Mensen die vinden dat hun leven voltooid is kunnen, ook als er geen sprake is van ondraaglijk en uitzichtloos lijden in medische zin, een waardig einde aan hun leven maken. Zij kunnen hierbij een beroep doen op professionele stervensbegeleiders. Hulp bij zelfdoding door deze stervens- begeleiders is niet strafbaar.",
+      "slug" : "euthanasie"
+    },
+    {
+      "tekst" : "In artikel 1 van de Grondwet over gelijke behandeling wordt expliciet gemaakt dat ook discriminatie op grond van homo- en heteroseksuele gerichtheid, genderidentiteit, leeftijd en handicap niet is toegestaan. In de Algemene wet gelijke behandeling wordt transgenderdiscriminatie en discriminatie van mensen met een intersekseconditie expliciet verboden.",
+      "slug" : "artikel-1"
+    },
+    {
+      "tekst" : "De nationale aanpak van discriminatie en racisme wordt versterkt. Aan antidiscriminatievoorzieningen wordt meer bekendheid gegeven, de drempel voor melden van discriminatie wordt verlaagd en het Openbaar Ministerie krijgt meer armslag om discriminatiezaken prioriteit te geven.",
+      "slug" : "anti-discriminatie"
+    },
+    {
+      "tekst" : "Geweld tegen mensen vanwege hun afkomst, religie of seksuele voorkeur wordt niet getolereerd. Er komt een hogere strafmaat voor discriminerend geweld, bedreigingen en intimidatie. Alle politieregio’s gaan geweld tegen homo’s, lesbiennes, biseksuelen, transgenders en intersekse-personen registreren. Naast antisemitisme wordt ook moslimdiscriminatie apart geregistreerd.",
+      "slug" : "discriminerend-geweld"
+    },
+    {
+      "tekst" : "De Inspectie SZW gaat strenger optreden tegen discriminatie op de arbeidsmarkt, inclusief leeftijdsdiscriminatie. Onder andere door de inzet van mystery-sollicitanten wordt arbeidsdiscriminatie actief opgespoord. Bedrijven die veroordeeld zijn voor discriminatie worden tijdelijk uitgesloten van overheidsaanbestedingen. Het criterium van diversiteit moet zwaarder wegen bij aanbestedingen.",
+      "slug" : "arbeidsdiscriminatie"
+    },
+    {
+      "tekst" : "De overheid voert een actief voorkeursbeleid bij de invulling van vacatures voor een goede afspiegeling van de samenleving, met name in publieke topfuncties. Bij vacatures van de overheid wordt anoniem solliciteren de norm. De etnische diversiteit van het personeel van de (Rijks)overheid wordt vergroot. Alle overheidsinstanties formuleren tijdgebonden streefwaarden voor betere weerspiegeling van etnische diversiteit in personeelsbestanden, ook voor de hoogste leidinggevende functies.",
+      "slug" : "diversiteit-overheidspersoneel"
+    },
+    {
+      "tekst" : "Discriminatie door de politie en andere opsporingsinstanties gaan we tegen. De politie krijgt een actief wervingsbeleid gericht op vrouwen, LHBTI’s en minderheden. Etnisch profileren gaan we tegen. De politie laten we registreren wie waarom staande wordt gehouden. Klachtenprocedures worden transparanter. Klachtencommissies worden diverser en onafhankelijker. En bij politieopleidingen komt meer aandacht voor bewustwording rondom vooroordelen, discriminatie en racisme.",
+      "slug" : "discriminatie-politie"
+    },
+    {
+      "tekst" : "Majesteitsschennis wordt geschrapt uit het Wetboek van Strafrecht, zodat de Koning dezelfde bescherming tegen belediging, smaad en laster heeft als anderen. Ook de strafbaarstelling van belediging van een bevriend staatshoofd wordt geschrapt.",
+      "slug" : "majesteitsschennis"
+    },
+    {
+      "tekst" : "Alle oorlogsgetroffenen uit voormalig Nederlands-Indië krijgen erkenning, rechtsherstel en compensatie. Ook andere slachtoffers van ons koloniale verleden krijgen erkenning. De Nederlandse staat maakt formeel excuses voor het Nederlandse slavernijverleden en koloniale verleden.",
+      "slug" : "koloniaal-verleden"
+    },
+    {
+      "tekst" : "Samen met de regeringen van de andere Koninkrijkslanden zorgen we ervoor dat in het gehele Koninkrijk discriminatie wordt teruggedrongen en gelijke behandeling wordt gerealiseerd.",
+      "slug" : "discriminatie-koninkrijk"
+    },
+    {
+      "tekst" : "Het Sinterklaasfeest moet een inclusief feest voor iedereen zijn. Naar racisme verwijzende elementen passen hier niet bij. De overheid faciliteert het gesprek met en in scholen, intochtcomités, bedrijven, verenigingen, de publieke omroep en andere actoren over aanpassing van de guur Zwarte Piet.",
+      "slug" : "Sinterklaas"
+    },
+    {
+      "tekst" : "Gezinnen waarbij de samenstelling anders is dan de traditionele moeder-vader samenstelling krijgen gelijke mogelijkheid tot juridisch ouderschap. Voor de erkenning van het kind wordt geen onderscheid gemaakt op grond van huwelijkse staat of geslacht van de erkennende ouder. Zoals twee moeders gezamenlijk juridisch ouder kunnen zijn, kunnen twee vaders dit ook. Ook wordt het mogelijk dat een kind meer dan twee juridische ouders heeft: bijvoorbeeld biologische ouders en ouders bij wie het kind woont. Het ouderlijk gezag blijft bij maximaal twee ouders. Wetgeving over het ouderschap wordt zonder verwijzing naar geslacht geformuleerd.",
+      "slug" : "juridisch-ouderschap"
+    },
+    {
+      "tekst" : "De partneralimentatieregelingen worden aangepast aan de 21e eeuw, waarbij het uitgangspunt is dat beide partners werken. Afhankelijk van de verdeling van werk en zorg gedurende het huwelijk wordt bepaald of en hoeveel alimentatie wordt betaald.",
+      "slug" : "partneralimentatie"
+    },
+    {
+      "tekst" : "De sekseregistratie bij de burgerlijke stand wordt afgeschaft.",
+      "slug" : "sekseregistratie"
+    },
+    {
+      "tekst" : "Om gelijke beoordeling en doorstroming van mannen en vrouwen te bevorderen, dienen de raden van bestuur en raden van commissarissen van beursgenoteerde bedrijven en de top van (semi-)publieke instellingen voor niet meer dan tweederde uit mannen te bestaan.",
+      "slug" : "vrouwen-topfuncties"
+    },
+    {
+      "tekst" : "Nederland leeft het VN-verdrag inzake de rechten van personen met een handicap na. Het recht op mobiliteit en meedoen van gehandicapten wordt daarmee gewaarborgd. Het openbaar vervoer en de publieke ruimte worden beter toegankelijk voor ouderen, mensen met een verstandelijke of lichamelijke beperking of een psychiatrische aandoening.",
+      "slug" : "rechten-handicap"
+    },
+    {
+      "tekst" : "Net als bij de gemeenteraadsverkiezingen mogen in Nederland gevestigde EU-burgers en migranten met een permanente verblijfsvergunning na vijf jaar stemmen voor de Provinciale Staten en voor de Tweede Kamer.",
+      "slug" : "stemrecht-eu-burgers-migranten"
+    },
+    {
+      "tekst" : "Bevrijdingsdag (5 mei) en Keti Koti (1 juli), de bevrijding van de slavernij, worden nationale feestdagen waarop iedereen ieder jaar vrij is en we de vrijheid met elkaar vieren.",
+      "slug" : "5-mei-keti-koti"
+    },
+    {
+      "tekst" : "De nanciering van kunst verdient sterke politieke pleitbezorgers en lobby. Wij trekken ink extra geld uit voor kunst en cultuur. Zo investeren we bijvoorbeeld in productiehuizen, presentatie-instellingen, festivals en broedplaatsen om innovatie en talentontwikkeling te stimuleren.",
+      "slug" : "kunst"
+    },
+    {
+      "tekst" : "Kinderen hebben recht op cultuur. Voor cultuur- en muziekonderwijs en beeldende vorming komt structureel meer geld beschikbaar zodat kinderen en jongeren kennis kunnen maken met kunst door zowel zelf creatief bezig te zijn als door kunstuitingen te bezoeken. Zij moeten daar al vroeg kennis mee kunnen maken via kunst-, cultuur- en muziekonderwijs, beeldende vorming en media-educatie. Kinderen leren informatie te zoeken, te lteren en kritisch te bekijken.",
+      "slug" : "cultuuronderwijs"
+    },
+    {
+      "tekst" : "De huidige manier om subsidies te verdelen wordt herzien: we schaffen de grote nadruk op de eigen inkomstennormen af. Ook pakken we de onnatuurlijke scheiding tussen de rechtstreekse nanciering van de Rijksoverheid en de cultuurfondsen van het ministerie aan. We stemmen het versnipperde beleid van rijk, gemeenten en provincies beter op elkaar af.",
+      "slug" : "cultuursubsidies"
+    },
+    {
+      "tekst" : "Iedereen die 18 jaar wordt, krijgt een kunstvoucher. Zo geven we jonge mensen de mogelijkheid om hun eigen smaak en visie te ontwikkelen en krijgen kunstorganisaties een breed en divers publiek voor de toekomst.",
+      "slug" : "kunstvoucher"
+    },
+    {
+      "tekst" : "We voeren het kunstenaarsvisum in, waardoor kunstenaars van buiten de EU zich in Nederland mogen vestigen en het kunstklimaat kunnen verlevendigen.",
+      "slug" : "kunstenaarsvisum"
+    },
+    {
+      "tekst" : "Wij staan pal voor een eerlijke inkomenspositie van kunstenaars. Een voorwaarde voor subsidieverlening moet zijn dat instellingen kunstenaars behoorlijk belonen.",
+      "slug" : "inkomen-kunstenaars"
+    },
+    {
+      "tekst" : "Er komt een nationaal museum, waar ruime aandacht is voor het slavernijverleden, koloniale verleden en de geschiedenis van migratie in Nederland.",
+      "slug" : "nationaal-museum"
+    },
+    {
+      "tekst" : "Intellectuele werken (foto’s, muziek, video) die door publieke instellingen tot stand zijn gekomen, worden voor niet-commerciële doeleinden herbruikbaar voor ons allemaal.",
+      "slug" : "intellectueel-eigendom-publiek"
+    },
+    {
+      "tekst" : "Nieuws, informatie, cultuur en educatie vormen de kerntaak van publieke omroepen. Daar moet voldoende geld voor zijn. Sport en amusement zorgen ervoor dat een breed publiek wordt bereikt. Het publieke bestel is toegankelijk voor onafhankelijke producenten. De producties van de publieke omroep zijn op internet gratis en zonder reclame toegankelijk.",
+      "slug" : "publieke-omroep"
+    },
+    {
+      "tekst" : "We marchanderen niet met mensenrechten. Nederland zet zich in voor een betere naleving van het VN-vluchtelingenverdrag, mensenrechtenverdragen en EU-asielrichtlijnen door de EU. Mensen die op individuele gronden (bijvoorbeeld seksuele gerichtheid, politieke opvattingen of religie) niet veilig zijn in hun land, kunnen asiel aanvragen bij diplomatieke posten van de Europese Unie.",
+      "slug" : "naleving-verdragen-asiel"
+    },
+    {
+      "tekst" : "Er komt meer geld voor opvang van vluchtelingen in de regio zodat mensen die lang in opvangkampen verblijven duurzame bescherming, veiligheid, onderwijs en zorg krijgen. Nederland investeert, samen met het bedrijfsleven, in de economie van de opvanglanden in de regio en het scheppen van banen voor vluchtelingen én burgers aldaar. Nederland zet zich ruimhartig in voor veilige routes en hervestiging van kwetsbare vluchtelingen in Europa via de UNHCR. Nederland verhoogt zijn aanbod voor de hervestiging van vluchtelingen substantieel.",
+      "slug" : "opvang-vluchtelingen-regio"
+    },
+    {
+      "tekst" : "Opvang in Nederland wordt kleinschalig georganiseerd. Gemeenten krijgen het aantal asielzoekers dat ze moeten opvangen toegewezen op basis van inwonertal. In overleg met bewoners regelen gemeenten zelf de opvang en het begin van integratie. De opvang is veilig en er is medische zorg beschikbaar. Er vindt voorlichting plaats over de gelijkheid van vrouwen, religieuze minderheden en LHBTI’s. In situaties van acute dreiging kunnen kwetsbare groepen tijdelijk in aparte opvang worden geplaatst. Daders worden effectief aangepakt.",
+      "slug" : "vluchtelingenopvang"
+    },
+    {
+      "tekst" : "De asielprocedure is individueel, eerlijk en zorgvuldig. Om procedures te verkorten mag tegelijk met de asielaanvraag het verzoek tot gezinshereniging worden ingediend. Daar wordt een beslissing over genomen direct nadat de beslissing over de asiel- aanvraag is genomen. Bij nieuwe informatie of bij verborgen feiten als trauma’s of seksuele gerichtheid wordt een verlengde procedure gestart. Er wordt bij herhaalde aanvragen meer rekening gehouden met de redenen waarom nieuwe informatie niet eerder kon worden ingebracht. Vervolgens volgt zo snel mogelijk een besluit. Wie geen asiel krijgt, gaat zo snel mogelijk terug naar land van herkomst. Wie niet kan worden teruggestuurd, krijgt een tijdelijke verblijfsvergunning. Als terugkeer na drie jaar nog steeds onmogelijk is, wordt deze omgezet in een permanente verblijfsstatus.",
+      "slug" : "asielprocedure"
+    },
+    {
+      "tekst" : "Bij de asielprocedure wordt in zwaarwegende mate rekening gehouden met het belang van kinderen. Dit wordt in de Vreemdelingenwet vastgelegd. De regels van het Kinderpardon worden eerlijker. Alle kinderen die in Nederland geworteld zijn en buiten hun schuld nog geen verblijfsstatus hebben, mogen in Nederland blijven. Er komt betere bekostiging voor de scholing van vluchtelingenkinderen.",
+      "slug" : "kinderen-asielprocedure"
+    },
+    {
+      "tekst" : "Integratie van asielzoekers start op dag één na aankomst. Zij leren direct over de Nederlandse samenleving en onze grondrechten. Asielzoekers krijgen meteen na aankomst toegang tot taalonderwijs en mogen werken. Inburgeringscursussen worden gegeven door reguliere onderwijsinstellingen en bekostigd door de Rijksoverheid. Dit taalonderwijs is gericht op participatie, via scholing, een eigen bedrijf of werk.",
+      "slug" : "integratie-asielzoekers"
+    },
+    {
+      "tekst" : "De overheid zorgt ervoor dat gemeenten voorzieningen inrichten waar uitgeprocedeerde asielzoekers opvang, inkomen en begeleiding ontvangen.",
+      "slug" : "uitgeprocedeerde-asielzoekers"
+    },
+    {
+      "tekst" : "Er komen toegankelijke trajecten die statushouders in staat stellen minimaal een startkwali catie te kunnen behalen. Hier trekken we extra geld voor uit. Zo wordt iedereen gestimuleerd om zelfredzaam te zijn.",
+      "slug" : "kwalificatie-statushouders"
+    },
+    {
+      "tekst" : "De Rijksoverheid laat meer ruimte aan gemeentelijke en lokale initiatieven bij de invulling van integratietrajecten.",
+      "slug" : "integratie-gemeente"
+    },
+    {
+      "tekst" : "De Rijksoverheid stelt, in samenspraak met woningcorporaties, een ambitieuze investeringsagenda op voor het realiseren van meer betaalbare sociale huurwoningen in de regio’s waar de wachtlijsten het langst zijn. De verhuurdershef ng wordt omgevormd tot een investeringsplicht voor corporaties om de sociale woningvoorraad te vergroten, de woningen sneller energiezuinig te maken en betaalbaar te houden, inclusief een financiële stok achter de deur voor corporaties die onvoldoende investeren. De huurliberalisatiegrens wordt weer geïndexeerd. Gemeenten krijgen de middelen om te investeren in de leefbaarheid van wijken.",
+      "slug" : "sociale-huur"
+    },
+    {
+      "tekst" : "Om op korte termijn de woningnood voor studenten, starters en mensen met een middeninkomen aan te pakken, wil GroenLinks in samenspraak met investeerders de vele vierkante kilometers aan leegstaande gebouwen van de Rijksoverheid transformeren tot betaalbare huurwoningen in het lagere en middensegment van de particuliere sector, zoals studentenwoningen. Het kraakverbod wordt afgeschaft. Belemmeringen voor wooncoöperaties worden weggenomen.",
+      "slug" : "woningnood"
+    },
+    {
+      "tekst" : "In de komende kabinetsperiode mag de huur van sociale huurwoningen voor minima en mensen met lage inkomens niet sneller stijgen dan de inflatie. De huren van veelverdienende scheefwoners mogen wel toenemen.",
+      "slug" : "sociale-huur-verhoging"
+    },
+    {
+      "tekst" : "Woonwijken moeten toegankelijk zijn voor alle inkomensgroepen. Mensen krijgen meer keuzevrijheid door gemengd te bouwen voor arm en rijk, kopers en huurders. De overheid dwingt de gemengde woningbouw af bij woningbouwcorporaties en projectontwikkelaars. De leefbaarheid wordt verbeterd door voor voldoende groen en parken te zorgen. In bebouwd gebied komen groene daken, groene gevels en tuinen onder meer voor stadslandbouw. Steden en dorpen worden klimaatbestendig.",
+      "slug" : "gemengde-woonwijken"
+    },
+    {
+      "tekst" : "De overheid maakt afspraken met gemeenten om investeringen in cultuurcentra, ateliers en kunstexperimenten te bestemmen voor kwetsbare wijken. Dat verhoogt de dynamiek en aantrekkingskracht van deze wijken.",
+      "slug" : "cultuur-kwetsbare-wijken"
+    },
+    {
+      "tekst" : "De Rijksoverheid helpt gemeenten de lucht schoner te maken. Er komen uniforme regels en verkeersborden voor milieuzones zodat gemeenten de meest vervuilende (vracht)auto’s, scooters, bromfietsen en (land)bouwmachines kunnen weren en ook onderscheid kunnen maken in de parkeertarieven voor schone en vieze auto’s. Voor de uitstoot van houtkachels en haarden worden regels opgesteld. Gemeentes krijgen handvatten om te handhaven op overlast en gezondheidsrisico’s. Binnen afzienbare termijn gaan voor snorfietsen dezelfde wettelijke eisen gelden als voor bromfietsen.",
+      "slug" : "schone-lucht"
+    },
+    {
+      "tekst" : "Er komt een verbod op consumentenvuurwerk. Daarvoor in de plaats komen veilige vuurwerkshows.",
+      "slug" : "vuurwerk"
+    },
+    {
+      "tekst" : "Er komen strengere regels en betere controles voor risicovolle bedrijven. Milieucriminaliteit wordt hard aangepakt. Er komt meer toezicht en handhaving op afvalstromen en in natuur- en buitengebieden.",
+      "slug" : "milieucriminaliteit"
+    },
+    {
+      "tekst" : "Verkeersveiligheid krijgt meer aandacht. De veiligheid van fietsers en voetgangers binnen de bebouwde kom krijgt prioriteit. Gemeenten krijgen de mogelijkheid om snorscooters, mét helmplicht, te verbannen van het fietspad naar de rijbaan.",
+      "slug" : "verkeersveiligheid"
+    },
+    {
+      "tekst" : "We willen voorkomen dat de tweedeling tussen de Randstad en regio’s in de periferie toeneemt. Daarom gaan we meer investeren in de regionale economie, infrastructuur, cultuur en voorzieningen in deze gebieden. GroenLinks wil de voorzieningen voor bewoners in krimpgebieden op peil houden. Dat vraagt om creatieve oplossingen, zoals openbaar vervoer op maat, mobiele zorgverlening, samenwerkingsscholen en bezorgdiensten. De bevolkingsgroei in steden vangen we op met investeringen in gebiedsontwikkeling die wereldwijd toonaangevend zijn in duurzaamheid en gezondheid.",
+      "slug" : "investeren-buiten-randstad"
+    },
+    {
+      "tekst" : "We investeren in het aaneensluiten van het netwerk van alle natuurgebieden, het Natuurnetwerk Nederland, versneld en in volle omvang. Er komen twee grote natuurgebieden in Nederland bij: de Markerwadden en het Oostvaarderswold in Flevoland. Daarnaast worden nieuwe nationale landschappen aangewezen. Het behoud en terugkeer van bijzondere flora en fauna worden bevorderd.",
+      "slug" : "natuur"
+    },
+    {
+      "tekst" : "We beschermen ons land tegen overstromingen en wateroverlast, waar mogelijk door rivieren meer ruimte te geven en hun natuurwaarden te versterken, in plaats van dijken te verzwaren.",
+      "slug" : "overstromingen-wateroverlast"
+    },
+    {
+      "tekst" : "De toegankelijkheid van natuurgebieden voor wandelaars, fietsers en ruiters wordt gewaarborgd, daar waar en wanneer dat ecologisch verantwoord is. Rond steden ontwikkelen we meer groene recreatiegebieden.",
+      "slug" : "toegankelijkheid-natuur"
+    },
+    {
+      "tekst" : "Waarden als stilte, nachtelijke duisternis en de weidsheid van het landschap worden beschermd. Om waardevolle, open gebieden te behouden moet bebouwing in die gebieden duurder worden. Daarom wordt een openruimteheffing ingevoerd. We kiezen voor compacte steden met veel groen.",
+      "slug" : "openruimteheffing"
+    },
+    {
+      "tekst" : "De bezuinigingen op natuur van 2011 worden ongedaan gemaakt, waarbij Staatsbosbeheer weer wordt genationaliseerd. Natuur verhuist van het ministerie Economische Zaken naar een milieuministerie.",
+      "slug" : "milieuministerie"
+    },
+    {
+      "tekst" : "De kustlijn inclusief duinen en aangrenzend natuurgebied houden we puur; bebouwing wordt uitgesloten.",
+      "slug" : "kustbebouwing"
+    },
+    {
+      "tekst" : "In natuurgebieden zoals de Noordzee, de Waddenzee en de Zuid-Hollandse en Zeeuwse Delta is geen plaats voor schadelijke economische activiteiten als gasboring, zandsuppletie of landaanwinning. De Westerschelde wordt niet verder verdiept. 30% van de Noordzee wordt zee-reservaat, gesloten voor visserij en andere schadelijke activiteiten. Om de Waddenzee beter te beschermen, komt er één beheerder voor de Waddenzee.",
+      "slug" : "water"
+    },
+    {
+      "tekst" : "Zo snel mogelijk wordt begonnen met een transitie naar duurzame vismethoden die veel minder negatief effect hebben op het zeeleven en het dierenwelzijn. Er komen herstelplannen voor bedreigde vissoorten en kwetsbare ecosystemen. Nederland neemt een voortrekkersrol in Europa en ander internationale verbanden bij het verduurzamen van visserij en landbouw en het beschermen van natuur.",
+      "slug" : "duurzame-vismethoden"
+    },
+    {
+      "tekst" : "Nieuwe wegen zijn onnodig en leiden tot versnippering, geluidsoverlast en luchtverontreiniging. Dus geen nieuwe wegen zoals de Blankenbergtunnel, Rijnlandroute, Duinpolderweg, A13/A16, A4-Zuid, A3 Groene Hart of verlenging van de A15.",
+      "slug" : "nieuwe-wegen"
+    },
+    {
+      "tekst" : "We beschermen bijen en hommels, onder meer door de variatie aan planten en bomen te vergroten en meer bloemen te zaaien, alsmede door bestrijdingsmiddelen zoals neonicotinoïden en glyfosaat – die een schadelijke doorwerking hebben in het hele ecosysteem – te verbieden. In plaats daarvan worden micro-organismen en andere natuurlijke middelen ingezet.",
+      "slug" : "bijen"
+    },
+    {
+      "tekst" : "In Nederland wordt gestreefd naar landbouw die vrij is van transgenetische manipulatie. Cisgenese wordt onder strikte voorwaarden toegestaan.",
+      "slug" : "genetische-manipulatie-landbouw"
+    },
+    {
+      "tekst" : "Nederland staat geen patenten toe op organismen en natuurlijke eigenschappen van organismen, en verzet zich in internationaal verband tegen dergelijke patenten.",
+      "slug" : "patenten-natuur"
+    },
+    {
+      "tekst" : "De overheid bevordert duurzame innovaties op het platteland, zoals biologische landbouw, energieleverende kassen en regionale afzetcoöperaties.",
+      "slug" : "duurzame-innovaties-platteland"
+    },
+    {
+      "tekst" : "Het mededingingsbeleid wordt zodanig aangepast dat boeren meer marktmacht krijgen ten opzichte van de voedselverwerkers en supermarktketens, onder andere met het doel een verbetering van de afzetprijzen te realiseren. Verkoop onder de kostprijs wordt verboden. Natuurinclusieve landbouw wordt de norm. Boeren kunnen een deel van hun inkomen verdienen met de bescherming en ontwikkeling van natuur, recreatie, dienstverlening, opwekking van duurzame energie en zorg. Met een nationaal programma weidevogels komen we boeren tegemoet en beschermen en herstellen we de weidevogelpopulaties.",
+      "slug" : "mededingingsbeleid"
+    },
+    {
+      "tekst" : "Er komt een einde aan de bio-industrie. Weidegang voor koeien en voldoende buitenruimte voor varkens en pluimvee worden wettelijk verankerd. Koeien kunnen grazen, kippen scharrelen, varkens wroeten.",
+      "slug" : "bio-industrie"
+    },
+    {
+      "tekst" : "Een gezonde bodem met een verstandig gebruik van dierlijke mest wordt de basis van de landbouw. Grondgebonden landbouw en gesloten kringlopen zijn de standaard. Er komt een stelsel van grondgebonden dierrechten.",
+      "slug" : "gezonde-bodem"
+    },
+    {
+      "tekst" : "Nieuwbouw van megastallen is niet toegestaan en bestaande megastallen verdwijnen. Alle stallen worden (brand)veilig.",
+      "slug" : "megastallen"
+    },
+    {
+      "tekst" : "De teelt van lokale eiwitgewassen voor voedsel en veevoer wordt bevorderd.",
+      "slug" : "eiwitgewassen"
+    },
+    {
+      "tekst" : "In veenweidegebieden gaat het waterpeil omhoog om oxidatie van het veen te stoppen. Er komt een pakket aan stimuleringsmaatregelen om boeren te helpen over te stappen op duurzame natte landbouw.",
+      "slug" : "veenweidegebieden"
+    },
+    {
+      "tekst" : "Dieren hebben recht op een respectvolle behandeling. Landbouw- en huisdieren worden zo gehouden dat zij soorteigen gedrag kunnen vertonen. Veetransporten worden aan banden gelegd: vier uur is het maximum.",
+      "slug" : "dieren"
+    },
+    {
+      "tekst" : "Dierproeven worden uitgefaseerd en proefdiervrije onderzoeksmethoden gestimuleerd. Dierproeven worden alleen nog tijdelijk toegestaan zolang het de enige manier is om substantiële verbetering van de volksgezondheid te bereiken.",
+      "slug" : "dierproeven"
+    },
+    {
+      "tekst" : "Er komt een verbod op het houden en fokken van nertsen en andere (pels)dieren met als doel het verkrijgen van (een deel van) hun pels of vacht. Daarnaast komt er een verbod op de handel in, import en doorvoer van bontproducten. Nederland zet zich in tegen de stroperij van en handel in wilde dieren en planten.",
+      "slug" : "bont"
+    },
+    {
+      "tekst" : "Plezierjacht wordt verboden. Beheersjacht is alleen onder strenge voorwaarden toegestaan bij ernstige schade of bedreiging van de volksgezondheid of veiligheid, wanneer alternatieven hebben gefaald.",
+      "slug" : "plezierjacht"
+    },
+    {
+      "tekst" : "Voor vlees gaat het hoge btw-tarief gelden. Er komt een verbod op stunten met vleesprijzen. Al het vlees dat in Nederland verkocht wordt, beschikt als eerste stap over 1 ster van het Beter Leven Keurmerk van de Dierenbescherming.",
+      "slug" : "btw-vlees"
+    },
+    {
+      "tekst" : "Het aantal fietsenstallingen en OV-fietsen bij stations wordt verder uitgebreid om de combinatie fiets-trein aantrekkelijker te maken. Er wordt meer geïnvesteerd in investeren in bredere, veilige fietspaden en in een netwerk van snel fietsroutes tussen steden. Het toenemend aantal fietsende senioren kan dat veilig doen en elektrische fietsen krijgen de ruimte. De mogelijkheid van voldoende fietsparkeren bij voorzieningen en bedrijventerreinen wordt opgenomen in ruimtelijke ordeningsvoorschriften.",
+      "slug" : "fietsen"
+    },
+    {
+      "tekst" : "Er komt extra spoor- en treincapaciteit, meer treinen op drukke trajecten en beter onderhoud van spoor en treinen. De trajecten waar treinen in hoge frequentie gaan rijden, worden verlengd tot buiten de Randstad. Zo wordt de flessenhals bij Ravenstein opgelost met een spoorverdubbeling waardoor Zuidoost-Nederland goed verbonden is met de rest van Nederland. In stedelijke gebieden komen tramlijnen en treinen met een metrodienstregeling. Er komen meer nachttreinen buiten de Randstad, beter treinvervoer bij grote evenementen en snellere treinverbindingen met Noord-Nederland, Duitsland en België en een snelle trein op het HSL-tracé. In de trein kun je werken, mede dankzij snelle en veilige wifi en stopcontacten.",
+      "slug" : "treinen"
+    },
+    {
+      "tekst" : "Het openbaar vervoer in kleinere steden en landelijke gebieden wordt niet verder uitgekleed maar juist versterkt. In de dunbevolkte gebieden komt openbaar vervoer op afroep beschikbaar. Iedereen in Nederland heeft toegang tot openbaar vervoer.",
+      "slug" : "ov-landelijk-gebied"
+    },
+    {
+      "tekst" : "Om de luchtkwaliteit te verbeteren en geluidsoverlast tegen te gaan, passen we snelheden op autowegen aan. Op rondwegen bij de steden wordt de maximumsnelheid 80 km/u of blijft de huidige lagere maximumsnelheid van kracht. Waar dat nodig is, gaat de maximumsnelheid op snelwegen naar 100 of 80 km/u. Op de overige snelwegen wordt de maximumsnelheid 120 km/u. Binnen de bebouwde kom wordt 30 km/u de regel. Bussen gaan elektrisch rijden. Zuinig rijden (‘Het Nieuwe Rijden’) wordt actief bevorderd.",
+      "slug" : "maximumsnelheid"
+    },
+    {
+      "tekst" : "Vervuiling en overlast door reizen hebben een prijs. Auto’s krijgen een eerlijke kilometerprijs: wie op drukke plekken in de spits of in een vieze auto rijdt, betaalt een hoger tarief. In dunbevolkte gebieden geldt een lager tarief. Werknemers worden gestimuleerd om te kiezen voor fiets, openbaar vervoer of deelauto, in plaats van een eigen (lease)auto. Leaserijders betalen voortaan zelf de brandstofkosten en krijgen de zakelijke kilometers vergoed op basis van het officiële testverbruik van hun auto: minder rijden en zuiniger rijden wordt zo beloond.",
+      "slug" : "kilometerprijs"
+    },
+    {
+      "tekst" : "We ijveren ervoor, ook op Europees niveau, dat alle nieuwe voertuigen zo snel mogelijk elektrisch worden: scooters en bromfietsen uiterlijk vanaf 2020, personen- en bestelauto’s, bussen en kleine distributietrucks uiterlijk vanaf 2025. Elektrische auto’s worden fiscaal goedkoper, auto’s met een verbrandingsmotor worden duurder. Er komt een landelijk dekkend netwerk van laadpalen en snellaadstations.",
+      "slug" : "elektrische-voertuigen"
+    },
+    {
+      "tekst" : "Openbaar vervoer moet voor iedereen bereikbaar en betaalbaar zijn. De OV-tarieven worden verlaagd",
+      "slug" : "ov-tarieven"
+    },
+    {
+      "tekst" : "Goederenvervoer wordt schoner en veiliger. In de scheepvaart wordt het gebruik van stookolie zo snel mogelijk afgebouwd.",
+      "slug" : "goederenvervoer"
+    },
+    {
+      "tekst" : "Oneerlijke belastingvrijstellingen voor vliegverkeer worden beperkt door een belasting op vliegreizen te introduceren. Er komen geen nieuwe vliegvelden in Nederland. Verdere groei van Schiphol en andere luchthavens is niet nodig door snelle internationale treinverbindingen.",
+      "slug" : "vliegverkeer"
+    },
+    {
+      "tekst" : "Met meer wijkagenten en politiebureaus in de wijken wordt gewerkt aan preventie en bestrijding van criminaliteit en overlast. Investeringen in recherche zorgen voor een hogere pakkans bij overtredingen en misdrijven. Gemeenten, politie, onderwijs, jongerenwerk, reclassering en veiligheidsdiensten werken samen aan deradicalisering en het voorkomen van radicalisering en rekrutering van jihadisten.",
+      "slug" : "veiligheid"
+    },
+    {
+      "tekst" : "Bij de bestrijding van terrorisme komt de nadruk te liggen op het verzamelen van inlichtingen uit menselijke bronnen en gerichte digitale surveillance in plaats van massasurveillance. De veiligheidsdiensten zetten geen ‘sleepnet’ in om grootschalig communicatie af te tappen. Zij publiceren jaarlijks het aantal taps dat zij hebben geplaatst. Nederland maakt zich sterk voor betere uitwisseling van informatie tussen veiligheidsdiensten en betere samenwerking tussen opsporingsdiensten binnen de Europese Unie.",
+      "slug" : "terrorismebestrijding"
+    },
+    {
+      "tekst" : "Nederland zet zich in voor een strengere Europese vuurwapenrichtlijn die de handel in en het bezit van vuurwapens terugdringt",
+      "slug" : "vuurwapens"
+    },
+    {
+      "tekst" : "Er komt een landelijk actieplan tegen gendergerelateerd geweld. De deskundigheid van hulpverleners ten aanzien van huiselijk, seksueel, eergerelateerd, anti-LHBTI- geweld en geweld tegen mensen met een beperking wordt vergroot, de inzet op preventie versterkt en de opvang wordt verbeterd. De bestrijding van alle vormen van mensenhandel is een prioriteit voor politie, justitie en arbeidsinspectie.",
+      "slug" : "gendergerelateerd-geweld"
+    },
+    {
+      "tekst" : "Straffen zijn rechtvaardig en effectief en worden in beginsel door een rechter opgelegd. Taakstraffen kunnen worden opgelegd als aanvulling op of als alternatief voor andere straffen. Ter voorbereiding van de terugkeer in de maatschappij en na hun vrijlating krijgen gedetineerden meer begeleiding, behandeling en opleiding vanuit reclassering en gemeenten. De uitvoering van de levenslange gevangenisstraf wordt aangepast. Na twintig jaar wordt voor het eerst onderzocht of voorwaardelijke invrijheidstelling mogelijk is. Gedetineerden hebben recht op een eigen cel.",
+      "slug" : "straffen"
+    },
+    {
+      "tekst" : "Er komt meer geld voor rechtspraak en Openbaar Ministerie. De toegankelijkheid van het recht wordt gewaarborgd door beperking van de griffierechten en een verbeterde rechtsbijstand voor mensen met lage inkomens.",
+      "slug" : "rechtspraak"
+    },
+    {
+      "tekst" : "We versterken de positie van slachtoffers. Als zij als getuige worden gehoord, worden zij bijgestaan door een advocaat. De rechtsbescherming van verdachten wordt vergroot door hun advocaten spreekrecht te geven bij politieverhoren.",
+      "slug" : "slachtoffers"
+    },
+    {
+      "tekst" : "Softdrugs en drugs zoals XTC en paddo’s worden gelegaliseerd. Drugsbezit door eind- gebruikers wordt gedecriminaliseerd. Politiecapaciteit moet niet worden ingezet tegen eindgebruikers. Bij grootschalige evenementen is er een mogelijkheid om drugs te laten testen.",
+      "slug" : "softdrugs"
+    },
+    {
+      "tekst" : "Het ministerie van Veiligheid en Justitie wordt weer het ministerie van Justitie. De zeggenschap over de politie gaat naar het ministerie van Binnenlandse Zaken en Koninkrijksrelaties.",
+      "slug" : "ministerie-veiligheid"
+    },
+    {
+      "tekst" : "De identi catieplicht wordt afgeschaft.",
+      "slug" : "identificatieplicht"
+    },
+    {
+      "tekst" : "Privacy is het uitgangspunt bij bouw en beheer van alle gegevensbestanden. De overheid geeft openheid over het gebruik van big data en profilering. De overheid ziet toe op een veilig en privacy-vriendelijk ontwerp van apparaten die met het internet verbonden zijn en op bescherming van persoonsgegevens die via het internet der dingen worden verzameld. Persoonsgegevens die door de overheid worden verzameld worden opgeslagen in Nederland.",
+      "slug" : "privacy"
+    },
+    {
+      "tekst" : "Grondrechten gelden ook op het internet. Het briefgeheim in de Grondwet wordt uitgebreid tot een communicatiegeheim dat ook verkeersgegevens en opgeslagen communicatie omvat. De bewaarplicht voor telecom- en internetgegevens wordt definitief afgeschaft. In plaats daarvan krijgen opsporings- en veiligheidsdiensten de mogelijkheid om gegevens van verdachte personen te laten bewaren en, met toestemming van de rechter, te bekijken.",
+      "slug" : "grondrechten-internet"
+    },
+    {
+      "tekst" : "Ook bij cyber security worden grondrechten gerespecteerd. De beveiliging van de computersystemen van (semi-)overheidsinstellingen wordt aan periodieke audits onderworpen. De overheid bevordert kennis en gebruik van veilige encryptie, zonder achterdeurtjes.",
+      "slug" : "cyber-security"
+    },
+    {
+      "tekst" : "Nederland maakt zich sterk voor een open en neutraal internet, ook binnen de Europese Unie. Hyperlinken en embedden blijven vrij. Er komt een einde aan geo­ blocking zodat programma’s ook in het buitenland toegankelijk zijn. Binnen de Europese Unie zet Nederland zich in voor afschaffing van het downloadverbod.",
+      "slug" : "neutraal-internet"
+    },
+    {
+      "tekst" : "Journalisten krijgen een wettelijke bronbescherming, inclusief het verschoningsrecht om te weigeren vragen te beantwoorden. Het aftappen van journalisten en van de communicatie tussen advocaten en hun cliënten wordt gebonden aan voorafgaande rechterlijke toestemming.",
+      "slug" : "journalistieke-privacy"
+    },
+    {
+      "tekst" : "Regelgeving voor civiele drones beschermt de persoonlijke levenssfeer, alsmede de veiligheid van het luchtruim en bewoond gebied. Hulp- en opsporingsdiensten gebruiken de door drones verzamelde informatie slechts voor het doel waarvoor de vlucht is uitgevoerd.",
+      "slug" : "drones"
+    },
+    {
+      "tekst" : "De overheid is terughoudend in het aantasten van de vrijheid van meningsuiting op internet en past geen automatische filters en voorafgaande controle toe. Aanbieders van sociale media worden niet ingezet als hulppolitie richting hun gebruikers en worden geacht hun gedragsregels transparant en consequent toe te passen, om discriminatie en willekeur tegen te gaan.",
+      "slug" : "vrijheid-meningsuiting-online"
+    },
+    {
+      "tekst" : "Om de digitale communicatie van iedereen veilig te houden, maken alle overheidsinstellingen beveiligingsproblemen in computersystemen altijd op verantwoorde wijze openbaar.",
+      "slug" : "beveiligingsproblemen"
+    },
+    {
+      "tekst" : "De Autoriteit Persoonsgegevens krijgt meer capaciteit om privacyschendingen aan te pakken en gaat ook instellingen en bedrijven begeleiden bij het organiseren van de opslag van persoonsgegevens.",
+      "slug" : "autoriteit-persoonsgegevens"
+    },
+    {
+      "tekst" : "Buurtrechten (recht om te bieden, uit te dagen en te plannen) waarmee burgers hun zeggenschap vergroten worden wettelijk verankerd.",
+      "slug" : "buurtrechten"
+    },
+    {
+      "tekst" : "De gemeenteraad kiest de burgemeester. De Provinciale Staten kiezen de Commissaris van de Koning. Op termijn wordt Nederland een republiek en wordt het staatshoofd gekozen.",
+      "slug" : "democratie"
+    },
+    {
+      "tekst" : "GroenLinks is voorstander van nieuwe vormen van deliberatieve democratie. Hierbij staan inwinnen van informatie, uitwisseling van argumenten, tijd voor overleg en een gezamenlijke zoektocht naar oplossingen en posities centraal. Deze benadering doet meer recht aan de complexiteit van maatschappelijke vraagstukken dan de ja-nee vraag in referenda. Er wordt een procedure ontwikkeld om deliberatieve democratie in te zetten en deze komt in plaats van de referendumwet. Er wordt geëxperimenteerd met nieuwe vormen van (directe) democratie, zeker op lokaal niveau.",
+      "slug" : "deliberatieve-democratie"
+    },
+    {
+      "tekst" : "Burgers krijgen het recht om wetten door een rechter te laten toetsen aan de Grondwet. Wanneer deze constitutionele toetsing is verwezenlijkt, wordt de Eerste Kamer afgeschaft.",
+      "slug" : "constitutionele-toetsing"
+    },
+    {
+      "tekst" : "De leeftijdsgrens voor het actief kiesrecht wordt verlaagd naar 16 jaar.",
+      "slug" : "kiesrecht-16"
+    },
+    {
+      "tekst" : "Stemcomputers worden alleen in gebruik genomen als ze aantoonbaar betrouwbaar werken, hun werking goed kan worden geaudit, er altijd een papieren hertelling mogelijk is, en ze niet via internet toegankelijk zijn.",
+      "slug" : "stemcomputers"
+    },
+    {
+      "tekst" : "De norm wordt dat publieke data openbaar toegankelijk en te gebruiken zijn (open data). De Wet Open Overheid verplicht overheden en semipublieke instellingen tot grotere transparantie. De overheid kiest structureel voor het gebruik van open source software en werkt een strategie uit om het gebruik van gesloten software af te bouwen. Het aanbestedingsbeleid voor ICT wordt hiervoor aangescherpt.",
+      "slug" : "open-data-open-source"
+    },
+    {
+      "tekst" : "Er komt een bindende gedragscode voor politieke lobbyisten. Bij wetsvoorstellen zit een overzicht van de belangenvertegenwoordigers die een inbreng hebben gehad.",
+      "slug" : "gedragscode-lobbyisten"
+    },
+    {
+      "tekst" : "Er komt een Ombudspersoon voor Toekomstige Generaties als voorvechter van hun rechten op duurzame ontwikkeling en een gezond leefmilieu. Hun belangen worden zo behartigd in huidige besluitvorming.",
+      "slug" : "ombudspersoon-toekomstige-generaties"
+    },
+    {
+      "tekst" : "Er komt een geschillenregeling voor conflicten tussen de landen Aruba, Curaçao en Sint Maarten en het Koninkrijk, zodat conflicten binnen het Koninkrijksverband onafhankelijk worden beoordeeld.",
+      "slug" : "geschillenregeling-conflicten-koninkrijk"
+    },
+    {
+      "tekst" : "De Europese Unie moet groener, socialer en democratischer. We pleiten voor betere controle door het Europees Parlement, minder nationale veto’s en een grotere betrokkenheid van nationale parlementen bij de Europese besluitvorming. Het Europees Parlement krijgt initiatiefrecht. De solidariteit in de eurozone wordt versterkt door middel van een Europees Monetair Fonds en euro-obligaties. Een gezamenlijk belastingbeleid richt zich op het tegengaan van belastingontwijking en op vergroening van belastingen. Het landbouwbeleid wordt duurzaam hervormd. Dit moet worden vastgelegd in een nieuw Europees verdrag.",
+      "slug" : "eu"
+    },
+    {
+      "tekst" : "De Europese Unie krijgt een rechtvaardig asiel- en migratiebeleid, met een geharmoniseerde asielprocedure. Alle lidstaten doen mee aan de eerlijke verdeling en opvang van vluchtelingen. Bij niet meewerken volgen sancties. Nederland geeft het goede voorbeeld door zijn toezeggingen na te komen, ook als andere EU-landen dat niet doen. Tijdelijke arbeidsmigranten kunnen makkelijker in Europa werken en weer terugkeren met speciale visa.",
+      "slug" : "asiel-migratiebeleid-eu"
+    },
+    {
+      "tekst" : "De regering ijvert voor grotere openbaarheid in de Europese Unie via een transparantere wetgevingsprocedure, meer toegang tot documenten, grotere openbaarheid van Eurotoppen en Eurogroeptoppen. De Europese Wet openbaarheid van bestuur moet worden verbeterd.",
+      "slug" : "openbaarheid-eu"
+    },
+    {
+      "tekst" : "Nederland zet zich in voor hervorming van het Stabiliteits- en Groeipact waarin houdbare nanciën, werkgelegenheid en duurzame ontwikkeling op gelijke voet staan. Dit hervormde pact biedt meer exibiliteit en begrotingsruimte om te inves- teren in arbeidsparticipatie, onderwijs, innovatie en duurzame energie. Het Europees Parlement krijgt medebeslissingsrecht over de jaarlijkse prioriteiten van het econo- mische beleid en controlerecht over de sociaaleconomische sturing die de Europese Commissie geeft aan de lidstaten.",
+      "slug" : "stabiliteits-groeipact"
+    },
+    {
+      "tekst" : "Nederland houdt zich aan de toetredingsafspraken die zij in EU-verband heeft gemaakt: landen mogen toetreden als zij voldoen aan de gestelde voorwaarden: democratie, rechtsstaat en mensenrechten moeten zijn gewaarborgd. Deze onderwerpen verdienen een centrale plek in de onderhandelingen met kandidaat-lidstaten. Daar wordt niet op afgedongen. GroenLinks maakt zich grote zorgen over Turkije. Zolang Turkije mensenrechten, persvrijheid en vrijheid van meningsuiting niet respecteert, is lidmaatschap van de Europese Unie uitgesloten en hebben onderhandelingen over toetreding geen zin.",
+      "slug" : "toetredingseisen-eu"
+    },
+    {
+      "tekst" : "Nederland neemt het voortouw bij samenwerking en specialisatie van de krijgsmachten van de EU-landen, om hun efficiency en inzetbaarheid te vergroten. Zo wordt, in samenhang met de versterking van het gemeenschappelijk buitenlands beleid, toegewerkt naar een Europese defensiemacht. Deze staat onder controle van het Europees Parlement. De NAVO mag geen belemmering vormen voor Europese militaire integratie. Nederland pleit voor afschaffing van de kernwapentaak van de NAVO.",
+      "slug" : "samenwerking-specialisatie-krijgsmacht"
+    },
+    {
+      "tekst" : "Het buitenlands beleid van Nederland is gericht op eerlijke verdeling van welvaart, duurzaamheid en het versterken van democratie en mensenrechten. Vredes-, mensenrechten- en ontwikkelingsdiplomatie krijgen voorrang boven economische diplomatie. Ontwikkelingssamenwerking gaat over het belang van mensen in ontwikkelingslanden, niet om het economisch belang van het Nederlands bedrijfsleven. De Nederlandse inspanningen richten zich op de duurzame ontwikkelingsdoelen van de Verenigde Naties. Daarbij legt Nederland zich toe op de terreinen waarop ons land veel kennis en ervaring heeft, zoals water, voedselzekerheid, veiligheid en rechtsstaat, seksuele en reproductieve gezondheid en rechten. Nederland steunt het maatschappelijk middenveld in ontwikkelingslanden: burgerbewegingen, mensenrechten- en milieuactivisten en vrouwen- en LHBTI-emancipatie.",
+      "slug" : "buitenlands-beleid"
+    },
+    {
+      "tekst" : "Er gaat meer geld naar ontwikkelingssamenwerking. De bestedingen gaan omhoog naar de internationaal afgesproken norm van 1,0% van het BNP. De kosten voor opvang van asielzoekers worden niet betaald uit het ontwikkelingsbudget. Klimaatsteun voor ontwikkelingslanden komt bovenop de uitgaven voor ontwikkelingssamenwerking.",
+      "slug" : "ontwikkelingssamenwerking"
+    },
+    {
+      "tekst" : "Alle aspecten van internationaal beleid, zoals handelspolitiek, worden getoetst op hun gevolgen voor ontwikkelingslanden en bijdrage aan de duurzame ontwikkelingsdoelen. Belastingontduiking en -ontwijking ten koste van ontwikkelingslanden worden aangepakt en deze landen krijgen daar een stem in.",
+      "slug" : "toetsing-internationaal-beleid"
+    },
+    {
+      "tekst" : "Handels- en investeringsverdragen mogen niet ten koste gaan van democratie en milieu- en sociale standaarden. We willen af van aparte claimrechtspraak voor multinationals. Nederland verzet zich tegen de goedkeuring van handelsverdragen die milieu- en sociale standaarden verlagen en claimrechtspraak bevatten, zoals het CETA-verdrag met Canada. In Europees verband zet Nederland in op een multilaterale handelsagenda en grondige aanpassingen van de mandaten aan de Europese Commissie om handelsverdragen te sluiten zodat eerlijke handel en de bescherming van mens en milieu centraal komen te staan. Nederland pleit binnen de Europese Unie voor het stopzetten van de onderhandelingen met de Verenigde Staten over het handels- en investeringsverdrag TTIP evenals de onderhandelingen over TiSA.",
+      "slug" : "handels-investeringsverdragen"
+    },
+    {
+      "tekst" : "Nederland wordt koploper in internationaal maatschappelijk verantwoord ondernemen. We stellen strenge eisen voor leefbare lonen, veilige arbeidsomstandigheden en milieuzorg in productielanden. We dwingen meer transparantie af over de hele productieketen, van grondstoffenwinning tot afvalverwerking.",
+      "slug" : "internationaal-ondernemen"
+    },
+    {
+      "tekst" : "De internationale gemeenschap deelt de verantwoordelijkheid om mensen te beschermen en genocide en ernstige mensenrechtenschendingen te voorkomen. Als alle niet-militaire opties zijn overwogen en onvoldoende effectief zijn gebleken, kunnen militaire interventies nodig zijn ter bescherming van mensen tegen gruwelijk en grootschalig geweld. Nederland maakt zich sterk voor conflictpreventie. Een militaire interventie is volkenrechtelijk gelegitimeerd en gaat altijd hand in hand met diplomatie, humanitaire hulp en wederopbouw die bijdraagt aan een stabiele, veilige situatie voor de burgers ter plekke, ook op de lange termijn. Voor dergelijke vredesmissies moet Nederland internationaal en als onderdeel van de Europese Unie ook militair verantwoordelijkheid blijven nemen.",
+      "slug" : "bescherming-mensenrechten"
+    },
+    {
+      "tekst" : "Nederland zet zich in voor bestraffing van ecocide, onder meer door het Internationaal Strafhof.",
+      "slug" : "ecocide"
+    },
+    {
+      "tekst" : "Er komt een verbod op kernwapens in Nederland. De uitvoer en doorvoer van wapens wordt aan banden gelegd. Nederland ijvert voor een strikte naleving van de EU-wapenexportcode en wapenembargo’s en draagt niet bij aan promotie van wapenhandel door het ondersteunen van wapenbeurzen. Nederland streeft binnen de Europese Unie naar een wapenembargo tegen landen die wapens inzetten tegen burgers, als Saoedi-Arabië. Nederland bevordert wereldwijde ondertekening en ratificatie van het wapenhandelsverdrag en de verdragen tegen landmijnen en clusterbommen. Nederland ijvert voor een wereldwijd verbod op kernwapens en munitie met verarmd uranium. Er mag geen Europees onderzoeksgeld in de ontwikkeling van wapens gestoken worden.",
+      "slug" : "kernwapens-wapenhandel"
+    },
+    {
+      "tekst" : "Nederland maakt zich sterk voor strikte Europese en internationale regels voor de inzet van bewapende drones. Nederland ijvert voor een wereldwijd verbod op de ontwikkeling en inzet van autonome bewapende robots, die geweld gebruiken zonder menselijke tussenkomst.",
+      "slug" : "bewapende-drones-robots"
+    },
+    {
+      "tekst" : "Nederland en de EU vergroten hun inspanningen voor een rechtvaardige oplossing van het Israëlisch-Palestijnse con ict. Israël moet de bezetting van de Westelijke Jordaanoever en de blokkade van de Gazastrook beëindigen. Beide partijen moeten zich houden aan het internationaal recht en zich onthouden van geweld en mensenrechtenschendingen. Nederland erkent Palestina als staat. Nederland pleit voor opschorting van het associatieverdrag tussen de Europese Unie en Israël, zolang Israël doorgaat met ernstige schendingen van het internationaal recht. De afgesproken herkomstvermelding op geïmporteerde producten uit de Israëlische nederzettingen wordt onmiddellijk uitgevoerd.",
+      "slug" : "israel-palestina"
+    },
+    {
+      "tekst" : "Nederland beijvert zich voor de rol van vrouwen bij het voorkomen en oplossen van gewapende con cten, bij vredesonderhandelingen en wederopbouw, alsmede voor de bescherming van vrouwen tegen oorlogsgeweld.",
+      "slug" : "conflictresolutie"
+    },
+    {
+      "tekst" : "Nederland zoekt met gelijkgezinde landen naar mogelijkheden om de legitimiteit van de Verenigde Naties te versterken en de effectiviteit te vergroten.",
+      "slug" : "verenigde-naties"
     }
-]
+  ]
