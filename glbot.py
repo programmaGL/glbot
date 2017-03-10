@@ -4,6 +4,7 @@ from pprint import pprint
 from time import sleep
 from pyshorteners import Shortener
 from credentials import *
+import datetime
 
 auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
 auth.set_access_token(access_token, access_token_secret)
@@ -17,6 +18,8 @@ with open('punten.json') as data_file:
 count_read = open("count.txt", "r")
 count = int(count_read.read())
 count_read.close()
+
+now = datetime.datetime.now().strftime('%Y-%m-%d-%H-%M-%S')
 
 def update_status():
     if count <= len(data):
@@ -34,7 +37,12 @@ def update_status():
             count_write.truncate()
             count_write.write(str(new_count))
             count_write.close()
+            log_write = open("log.txt", "w")
+            log_write.write(str(now + ' - ' + tweet))
+            log_write.close()
         except tweepy.TweepError as e:
-            print(e.reason)
+            log_write = open("log.txt", "w")
+            log_write.write(str(now + ' - ' + e.reason))
+            log_write.close()
 
 update_status()
